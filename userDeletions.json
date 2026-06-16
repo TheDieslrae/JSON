@@ -1,0 +1,134 @@
+{
+  "uncover4197": {
+    "deletion_count": 21,
+    "nsfw_deletion_count": 0,
+    "events": {
+      "2026-06-06T14:42:09.207Z::4231834": {
+        "post_id": "4231834",
+        "thread_name": "Free repairs!",
+        "deleted_by": "dyno",
+        "reason": "Necro'ing old thread."
+      },
+      "2026-06-06T14:43:02.710Z::4231822": {
+        "post_id": "4231822",
+        "thread_name": "advice for beginners",
+        "deleted_by": "dyno",
+        "reason": "Necro'ing old thread."
+      },
+      "2026-06-06T14:43:57.005Z::4231810": {
+        "post_id": "4231810",
+        "thread_name": "gENUINE qUESTION",
+        "deleted_by": "dyno",
+        "reason": "Necroing old thread."
+      },
+      "2026-06-06T14:43:57.046Z::4231813": {
+        "post_id": "4231813",
+        "thread_name": "Anyone Using Antivirus Software These Days?",
+        "deleted_by": "dyno",
+        "reason": "Necroing old thread."
+      },
+      "2026-06-06T14:43:57.046Z::4231806": {
+        "post_id": "4231806",
+        "thread_name": "Invite Forums: Choosing the right User",
+        "deleted_by": "dyno",
+        "reason": "Necroing old thread."
+      },
+      "2026-06-06T14:43:57.110Z::4231807": {
+        "post_id": "4231807",
+        "thread_name": "Why do you all like to look at other people&#39;s pages?",
+        "deleted_by": "dyno",
+        "reason": "Necroing old thread."
+      },
+      "2026-06-06T14:43:57.110Z::4231817": {
+        "post_id": "4231817",
+        "thread_name": "IPTV Guidance",
+        "deleted_by": "dyno",
+        "reason": "Necroing old thread."
+      },
+      "2026-06-06T14:43:57.365Z::4230908": {
+        "post_id": "4230908",
+        "thread_name": "Helping out new gazelles with first pet / gear etc.",
+        "deleted_by": "dyno",
+        "reason": "Necroing old thread."
+      },
+      "2026-06-06T14:43:57.365Z::4230029": {
+        "post_id": "4230029",
+        "thread_name": "Usenet Indexers",
+        "deleted_by": "dyno",
+        "reason": "Necroing old thread."
+      },
+      "2026-06-06T14:43:57.391Z::4230033": {
+        "post_id": "4230033",
+        "thread_name": "A tracker to replace torrentleech?",
+        "deleted_by": "dyno",
+        "reason": "Necroing old thread."
+      },
+      "2026-06-06T14:43:57.416Z::4230034": {
+        "post_id": "4230034",
+        "thread_name": "Everything you need to know to hit legendary gamer in no time...",
+        "deleted_by": "dyno",
+        "reason": "Necroing old thread."
+      },
+      "2026-06-06T14:43:57.416Z::4230205": {
+        "post_id": "4230205",
+        "thread_name": "Adult softcore private and/or public trackers?",
+        "deleted_by": "dyno",
+        "reason": "Necroing old thread."
+      },
+      "2026-06-06T14:43:57.416Z::4229668": {
+        "post_id": "4229668",
+        "thread_name": "Why go for higher user classes? (Legendary Gamer",
+        "deleted_by": "dyno",
+        "reason": "Necroing old thread."
+      },
+      "2026-06-06T14:43:57.441Z::4230030": {
+        "post_id": "4230030",
+        "thread_name": "Ratio free General trackers",
+        "deleted_by": "dyno",
+        "reason": "Necroing old thread."
+      },
+      "2026-06-06T14:43:57.441Z::4230031": {
+        "post_id": "4230031",
+        "thread_name": "Best stuff to trade for 450 random staff cards?",
+        "deleted_by": "dyno",
+        "reason": "Necroing old thread."
+      },
+      "2026-06-06T14:43:57.441Z::4230032": {
+        "post_id": "4230032",
+        "thread_name": "What tracker has this kind of content ?",
+        "deleted_by": "dyno",
+        "reason": "Necroing old thread."
+      },
+      "2026-06-06T14:43:57.467Z::4230035": {
+        "post_id": "4230035",
+        "thread_name": "Helping out new gazelles with first pet / gear etc.",
+        "deleted_by": "dyno",
+        "reason": "Necroing old thread."
+      },
+      "2026-06-06T15:31:30.486Z::4231826": {
+        "post_id": "4231826",
+        "thread_name": "Where is Doom The Dark Ages?",
+        "deleted_by": "dyno",
+        "reason": "Spamming and necroing."
+      },
+      "2026-06-06T15:31:30.531Z::4231821": {
+        "post_id": "4231821",
+        "thread_name": "Finally an Elite Gamer",
+        "deleted_by": "dyno",
+        "reason": "Spamming and necroing."
+      },
+      "2026-06-06T15:31:30.531Z::4231824": {
+        "post_id": "4231824",
+        "thread_name": "What I Wish I&#39;d Known",
+        "deleted_by": "dyno",
+        "reason": "Spamming and necroing."
+      },
+      "2026-06-06T15:31:30.658Z::4232013": {
+        "post_id": "4232013",
+        "thread_name": "Quartz and Bronze dwarf newbie comparison",
+        "deleted_by": "dyno",
+        "reason": "Spamming and necroing."
+      }
+    }
+  }
+}
