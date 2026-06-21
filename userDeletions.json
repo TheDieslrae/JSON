@@ -1,1 +1,156 @@
-{}
+{
+  "Spline": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 1,
+    "events": {
+      "2026-06-07T13:44:49.324Z::4234763": {
+        "post_id": "4234763",
+        "thread_name": "Video Games by Genre",
+        "reason": "Thread rules (post above: Text Adventure 1980-1982)."
+      },
+      "2026-06-19T14:37:52.944Z::4239696": {
+        "post_id": "4239696",
+        "thread_name": "Answer With a Name of a Game / Torrent",
+        "reason": "Thread rules (NSFW)."
+      }
+    }
+  },
+  "feng9148": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0,
+    "events": {
+      "2026-06-07T13:45:13.110Z::4234774": {
+        "post_id": "4234774",
+        "thread_name": "Video Games by Genre",
+        "reason": "Thread rules (genre tag for that would be card.game)."
+      },
+      "2026-06-07T13:46:21.411Z::4234687": {
+        "post_id": "4234687",
+        "thread_name": "Video Games by Genre",
+        "reason": "Thread rules (shmup = shoot.em.up)."
+      }
+    }
+  },
+  "Thethirstydev": {
+    "deletion_count": 0,
+    "nsfw_deletion_count": 1,
+    "events": {
+      "2026-06-12T23:34:04.821Z::4235149": {
+        "post_id": "4235149",
+        "thread_name": "Answer With a Name of a Game / Torrent",
+        "reason": "Thread rules (NSFW)."
+      }
+    }
+  },
+  "nd4467": {
+    "deletion_count": 0,
+    "nsfw_deletion_count": 1,
+    "events": {
+      "2026-06-12T23:42:36.896Z::4235278": {
+        "post_id": "4235278",
+        "thread_name": "Game Title Chains",
+        "reason": "Thread rules (NSFW)."
+      }
+    }
+  },
+  "smilen": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 1,
+    "events": {
+      "2026-06-12T23:43:08.840Z::4235819": {
+        "post_id": "4235819",
+        "thread_name": "Game Title Chains",
+        "reason": "Thread rules - only 2 letters."
+      },
+      "2026-06-15T23:19:59.553Z::4238553": {
+        "post_id": "4238553",
+        "thread_name": "Video Games by Genre",
+        "reason": "Thread rules (NSFW)."
+      }
+    }
+  },
+  "misc72": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0,
+    "events": {
+      "2026-06-12T23:43:40.084Z::4237305": {
+        "post_id": "4237305",
+        "thread_name": "Game Title Chains",
+        "reason": "Thread rules (only 3 letters)."
+      },
+      "2026-06-19T14:38:51.670Z::4239154": {
+        "post_id": "4239154",
+        "thread_name": "Video Games by Genre",
+        "reason": "Thraed rules (post above:  fps 2002 )."
+      }
+    }
+  },
+  "zeez": {
+    "deletion_count": 8,
+    "nsfw_deletion_count": 0,
+    "events": {
+      "2026-06-19T14:39:38.444Z::4239299": {
+        "post_id": "4239299",
+        "thread_name": "Video Games by Genre",
+        "reason": "Thread rules (post above:  Arcade 1991-1995 )."
+      },
+      "2026-06-19T14:40:50.976Z::4239530": {
+        "post_id": "4239530",
+        "thread_name": "Video Games by Genre",
+        "reason": "Thread rules (post above:  RPG 2020-2023 )."
+      },
+      "2026-06-19T14:41:21.353Z::4239647": {
+        "post_id": "4239647",
+        "thread_name": "Video Games by Genre",
+        "reason": "Thread rules (post above:  RPG 2016-2025 )."
+      },
+      "2026-06-19T14:41:46.355Z::4239682": {
+        "post_id": "4239682",
+        "thread_name": "Video Games by Genre",
+        "reason": "Thread rules (post above:  Racing 2015-2020)."
+      },
+      "2026-06-19T14:42:22.144Z::4240016": {
+        "post_id": "4240016",
+        "thread_name": "Video Games by Genre",
+        "reason": "Thread rules (post above:  Puzzle 2013-2017)."
+      },
+      "2026-06-19T14:42:54.578Z::4240172": {
+        "post_id": "4240172",
+        "thread_name": "Video Games by Genre",
+        "reason": "Thread rules (post above:  Sports 2020-2024 )."
+      },
+      "2026-06-19T14:43:36.037Z::4240314": {
+        "post_id": "4240314",
+        "thread_name": "Video Games by Genre",
+        "reason": "Thread rules (post above: Simulation (2011-2015)) ."
+      },
+      "2026-06-19T14:44:14.245Z::4240524": {
+        "post_id": "4240524",
+        "thread_name": "Video Games by Genre",
+        "reason": "Thread rules (post above:  Adventure 1979-1984 )."
+      }
+    }
+  },
+  "kirsed": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0,
+    "events": {
+      "2026-06-19T14:40:05.649Z::4239340": {
+        "post_id": "4239340",
+        "thread_name": "Video Games by Genre",
+        "reason": "Thread rules (post above: Sports (2018-2023) )."
+      }
+    }
+  },
+  "xenolith": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0,
+    "events": {
+      "2026-06-19T14:45:30.069Z::4239037": {
+        "post_id": "4239037",
+        "thread_name": "Wikipedia Speedrunning!",
+        "reason": "Thread rules (post above: Axolotl -> Billboard charts)."
+      }
+    }
+  }
+}
