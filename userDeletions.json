@@ -1,12 +1,4 @@
 {
-  "Spline": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 1
-  },
-  "feng9148": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
   "Thethirstydev": {
     "deletion_count": 0,
     "nsfw_deletion_count": 1
@@ -22,6 +14,10 @@
   "misc72": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
+  },
+  "Spline": {
+    "deletion_count": 0,
+    "nsfw_deletion_count": 1
   },
   "zeez": {
     "deletion_count": 8,
