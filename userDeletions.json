@@ -20,7 +20,7 @@
     "nsfw_deletion_count": 1
   },
   "misc72": {
-    "deletion_count": 2,
+    "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
   "Spline": {
@@ -44,6 +44,14 @@
     "nsfw_deletion_count": 0
   },
   "numerik": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "geg": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "j_0": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
