@@ -7,16 +7,16 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
+  "nd4467": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 1
+  },
   "Thethirstydev": {
     "deletion_count": 0,
     "nsfw_deletion_count": 1
   },
-  "nd4467": {
-    "deletion_count": 0,
-    "nsfw_deletion_count": 1
-  },
   "smilen": {
-    "deletion_count": 2,
+    "deletion_count": 3,
     "nsfw_deletion_count": 1
   },
   "misc72": {
@@ -44,7 +44,7 @@
     "nsfw_deletion_count": 0
   },
   "numerik": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "geg": {
@@ -52,6 +52,14 @@
     "nsfw_deletion_count": 0
   },
   "j_0": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "DynamiteDuxer": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "junioridJAM": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
