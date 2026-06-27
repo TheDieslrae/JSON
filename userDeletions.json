@@ -9,23 +9,19 @@
   },
   "nd4467": {
     "deletion_count": 3,
-    "nsfw_deletion_count": 1
-  },
-  "Thethirstydev": {
-    "deletion_count": 0,
-    "nsfw_deletion_count": 1
+    "nsfw_deletion_count": 0
   },
   "smilen": {
     "deletion_count": 4,
     "nsfw_deletion_count": 1
   },
-  "misc72": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
   "Spline": {
     "deletion_count": 0,
     "nsfw_deletion_count": 1
+  },
+  "misc72": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
   },
   "zeez": {
     "deletion_count": 8,
@@ -68,6 +64,10 @@
     "nsfw_deletion_count": 0
   },
   "Kip": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "simonsnow": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
