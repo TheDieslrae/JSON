@@ -20,7 +20,7 @@
     "nsfw_deletion_count": 0
   },
   "zeez": {
-    "deletion_count": 9,
+    "deletion_count": 11,
     "nsfw_deletion_count": 0
   },
   "kirsed": {
@@ -77,6 +77,6 @@
   },
   "synthonic": {
     "deletion_count": 1,
-    "nsfw_deletion_count": 0
+    "nsfw_deletion_count": 1
   }
 }
