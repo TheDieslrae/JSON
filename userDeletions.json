@@ -20,7 +20,7 @@
     "nsfw_deletion_count": 0
   },
   "zeez": {
-    "deletion_count": 11,
+    "deletion_count": 12,
     "nsfw_deletion_count": 0
   },
   "kirsed": {
@@ -40,7 +40,7 @@
     "nsfw_deletion_count": 0
   },
   "numerik": {
-    "deletion_count": 2,
+    "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
   "geg": {
@@ -78,5 +78,9 @@
   "synthonic": {
     "deletion_count": 1,
     "nsfw_deletion_count": 1
+  },
+  "exec": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
   }
 }
