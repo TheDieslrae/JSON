@@ -80,7 +80,15 @@
     "nsfw_deletion_count": 1
   },
   "exec": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "ModManMatt": {
     "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "ipdr01": {
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   }
 }
