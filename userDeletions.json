@@ -8,7 +8,7 @@
     "nsfw_deletion_count": 0
   },
   "nd4467": {
-    "deletion_count": 3,
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "Spline": {
@@ -89,6 +89,10 @@
   },
   "ipdr01": {
     "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "lybica": {
+    "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
 }
