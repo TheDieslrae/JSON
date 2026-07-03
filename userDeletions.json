@@ -19,26 +19,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "Spline": {
-    "deletion_count": 0,
-    "nsfw_deletion_count": 1
-  },
-  "misc72": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "zeez": {
-    "deletion_count": 12,
-    "nsfw_deletion_count": 0
-  },
-  "kirsed": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "xenolith": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
   "smilen": {
     "deletion_count": 5,
     "nsfw_deletion_count": 0
@@ -49,6 +29,10 @@
   },
   "numerik": {
     "deletion_count": 3,
+    "nsfw_deletion_count": 0
+  },
+  "misc72": {
+    "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "geg": {
@@ -76,7 +60,7 @@
     "nsfw_deletion_count": 0
   },
   "simonsnow": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "FamousApe": {
@@ -86,6 +70,10 @@
   "synthonic": {
     "deletion_count": 1,
     "nsfw_deletion_count": 1
+  },
+  "zeez": {
+    "deletion_count": 4,
+    "nsfw_deletion_count": 0
   },
   "exec": {
     "deletion_count": 2,
