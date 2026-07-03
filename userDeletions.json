@@ -1,6 +1,6 @@
 {
   "Tetsuyaaa": {
-    "deletion_count": 3,
+    "deletion_count": 4,
     "nsfw_deletion_count": 0
   },
   "Tripperr": {
@@ -9,6 +9,14 @@
   },
   "nd4467": {
     "deletion_count": 5,
+    "nsfw_deletion_count": 0
+  },
+  "LunarThrasher": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "jackhigh": {
+    "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "Spline": {
@@ -92,6 +100,10 @@
     "nsfw_deletion_count": 0
   },
   "lybica": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "hanboys": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
