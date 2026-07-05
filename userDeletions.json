@@ -27,10 +27,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "smilen": {
-    "deletion_count": 6,
-    "nsfw_deletion_count": 0
-  },
   "Apollo69": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -49,6 +45,10 @@
   },
   "j_0": {
     "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "smilen": {
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "DynamiteDuxer": {
