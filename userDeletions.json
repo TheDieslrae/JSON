@@ -28,7 +28,7 @@
     "nsfw_deletion_count": 0
   },
   "smilen": {
-    "deletion_count": 5,
+    "deletion_count": 6,
     "nsfw_deletion_count": 0
   },
   "Apollo69": {
@@ -104,6 +104,18 @@
     "nsfw_deletion_count": 0
   },
   "Fibuty": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "otebono": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "bbllyy": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "Wolfgang": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
