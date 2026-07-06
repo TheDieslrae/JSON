@@ -80,7 +80,7 @@
     "nsfw_deletion_count": 1
   },
   "zeez": {
-    "deletion_count": 4,
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "exec": {
@@ -116,6 +116,10 @@
     "nsfw_deletion_count": 0
   },
   "Wolfgang": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Chiaki": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
