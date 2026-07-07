@@ -1,14 +1,10 @@
 {
-  "Tetsuyaaa": {
-    "deletion_count": 4,
-    "nsfw_deletion_count": 0
-  },
-  "Tripperr": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
   "nd4467": {
     "deletion_count": 5,
+    "nsfw_deletion_count": 0
+  },
+  "Tetsuyaaa": {
+    "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "LunarThrasher": {
@@ -25,10 +21,6 @@
   },
   "usherxupeng": {
     "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "numerik": {
-    "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
   "misc72": {
@@ -53,6 +45,10 @@
   },
   "junioridJAM": {
     "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "numerik": {
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "good_gamer": {
@@ -116,6 +112,14 @@
     "nsfw_deletion_count": 0
   },
   "Chiaki": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "NaCl": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "morbid_thoughts": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
