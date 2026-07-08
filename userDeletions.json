@@ -23,20 +23,8 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "misc72": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "geg": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "j_0": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
   "smilen": {
-    "deletion_count": 5,
+    "deletion_count": 6,
     "nsfw_deletion_count": 0
   },
   "DynamiteDuxer": {
@@ -112,7 +100,7 @@
     "nsfw_deletion_count": 0
   },
   "Chiaki": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "NaCl": {
@@ -120,6 +108,14 @@
     "nsfw_deletion_count": 0
   },
   "morbid_thoughts": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "xxwkof": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "vazudifitula": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
