@@ -1,8 +1,4 @@
 {
-  "nd4467": {
-    "deletion_count": 5,
-    "nsfw_deletion_count": 0
-  },
   "Tetsuyaaa": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -23,28 +19,20 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "smilen": {
-    "deletion_count": 6,
-    "nsfw_deletion_count": 0
-  },
-  "DynamiteDuxer": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "junioridJAM": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "numerik": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
   "good_gamer": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "Kip": {
     "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "nd4467": {
+    "deletion_count": 3,
+    "nsfw_deletion_count": 0
+  },
+  "smilen": {
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "simonsnow": {
@@ -65,6 +53,10 @@
   },
   "exec": {
     "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "numerik": {
+    "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "ModManMatt": {
