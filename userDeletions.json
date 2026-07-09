@@ -19,14 +19,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "Kip": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "nd4467": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
   "smilen": {
     "deletion_count": 5,
     "nsfw_deletion_count": 0
@@ -44,7 +36,7 @@
     "nsfw_deletion_count": 1
   },
   "zeez": {
-    "deletion_count": 5,
+    "deletion_count": 6,
     "nsfw_deletion_count": 0
   },
   "exec": {
@@ -61,6 +53,10 @@
   },
   "ipdr01": {
     "deletion_count": 3,
+    "nsfw_deletion_count": 0
+  },
+  "nd4467": {
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "lybica": {
@@ -104,6 +100,10 @@
     "nsfw_deletion_count": 0
   },
   "vazudifitula": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "zsupsz": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
