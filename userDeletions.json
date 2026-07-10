@@ -48,7 +48,7 @@
     "nsfw_deletion_count": 0
   },
   "ModManMatt": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "ipdr01": {
@@ -104,6 +104,22 @@
     "nsfw_deletion_count": 0
   },
   "zsupsz": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "bolt": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Raptortrack": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Tarbender": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "KrakenSix": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
