@@ -19,13 +19,13 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "synthonic": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 1
-  },
   "zeez": {
     "deletion_count": 6,
     "nsfw_deletion_count": 0
+  },
+  "synthonic": {
+    "deletion_count": 0,
+    "nsfw_deletion_count": 1
   },
   "exec": {
     "deletion_count": 2,
@@ -84,7 +84,7 @@
     "nsfw_deletion_count": 0
   },
   "NaCl": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "morbid_thoughts": {
@@ -108,7 +108,7 @@
     "nsfw_deletion_count": 0
   },
   "Raptortrack": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "Tarbender": {
@@ -129,6 +129,10 @@
   },
   "gxj8885718": {
     "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Ementon": {
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   }
 }
