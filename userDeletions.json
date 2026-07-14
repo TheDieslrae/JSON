@@ -20,7 +20,7 @@
     "nsfw_deletion_count": 0
   },
   "zeez": {
-    "deletion_count": 6,
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "synthonic": {
@@ -84,7 +84,7 @@
     "nsfw_deletion_count": 0
   },
   "NaCl": {
-    "deletion_count": 2,
+    "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
   "morbid_thoughts": {
@@ -133,6 +133,10 @@
   },
   "Ementon": {
     "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "Win": {
+    "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
 }
