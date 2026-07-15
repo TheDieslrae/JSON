@@ -20,12 +20,8 @@
     "nsfw_deletion_count": 0
   },
   "zeez": {
-    "deletion_count": 5,
+    "deletion_count": 3,
     "nsfw_deletion_count": 0
-  },
-  "synthonic": {
-    "deletion_count": 0,
-    "nsfw_deletion_count": 1
   },
   "exec": {
     "deletion_count": 2,
@@ -138,5 +134,17 @@
   "Win": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
+  },
+  "XXXXX": {
+    "deletion_count": 7,
+    "nsfw_deletion_count": 0
+  },
+  "LittleNightOwl": {
+    "deletion_count": 3,
+    "nsfw_deletion_count": 0
+  },
+  "waiter7": {
+    "deletion_count": 0,
+    "nsfw_deletion_count": 1
   }
 }
