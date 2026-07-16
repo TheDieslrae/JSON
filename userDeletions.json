@@ -19,10 +19,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "smilen": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
   "ModManMatt": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
@@ -57,6 +53,10 @@
   },
   "otebono": {
     "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "smilen": {
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "bbllyy": {
