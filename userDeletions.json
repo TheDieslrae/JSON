@@ -19,18 +19,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "ModManMatt": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "ipdr01": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
-  "exec": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
   "nd4467": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
@@ -44,6 +32,10 @@
     "nsfw_deletion_count": 0
   },
   "simonsnow": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "ipdr01": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
@@ -101,6 +93,10 @@
   },
   "Raptortrack": {
     "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "ModManMatt": {
+    "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "Tarbender": {
