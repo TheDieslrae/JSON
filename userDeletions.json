@@ -3,22 +3,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "xxwkof": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "Chiaki": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "smilen": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "vazudifitula": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
   "zsupsz": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -121,6 +105,10 @@
   },
   "ArtikBanana": {
     "deletion_count": 128,
+    "nsfw_deletion_count": 0
+  },
+  "smilen": {
+    "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "grigglebug": {
