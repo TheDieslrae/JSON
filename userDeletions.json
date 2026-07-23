@@ -100,7 +100,7 @@
     "nsfw_deletion_count": 0
   },
   "Apollo69": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "ArtikBanana": {
@@ -130,5 +130,9 @@
   "dongbing": {
     "deletion_count": 0,
     "nsfw_deletion_count": 1
+  },
+  "boxshredder": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
   }
 }
