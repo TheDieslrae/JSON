@@ -44,7 +44,7 @@
     "nsfw_deletion_count": 0
   },
   "NaCl": {
-    "deletion_count": 3,
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "Win": {
@@ -100,7 +100,7 @@
     "nsfw_deletion_count": 0
   },
   "smilen": {
-    "deletion_count": 2,
+    "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
   "grigglebug": {
@@ -125,6 +125,14 @@
   },
   "boxshredder": {
     "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "HarderQ": {
+    "deletion_count": 0,
+    "nsfw_deletion_count": 1
+  },
+  "bunchagames": {
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
   }
 }
