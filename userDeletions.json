@@ -3,14 +3,6 @@
     "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
-  "NaCl": {
-    "deletion_count": 4,
-    "nsfw_deletion_count": 0
-  },
-  "Win": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
   "XXXXX": {
     "deletion_count": 9,
     "nsfw_deletion_count": 0
@@ -77,6 +69,10 @@
   },
   "threeoneseven": {
     "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "NaCl": {
+    "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
   "dongbing": {
