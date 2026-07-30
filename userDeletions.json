@@ -1,42 +1,6 @@
 {
   "Tetsuyaaa": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "ipdr01": {
-    "deletion_count": 5,
-    "nsfw_deletion_count": 0
-  },
-  "lordjynx": {
     "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "Nolita": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "LittleNightOwl": {
-    "deletion_count": 5,
-    "nsfw_deletion_count": 1
-  },
-  "ccrichard": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "kirsed": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "bbllyy": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "thegame": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "Apollo69": {
-    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "ArtikBanana": {
@@ -49,6 +13,18 @@
   },
   "smilen": {
     "deletion_count": 3,
+    "nsfw_deletion_count": 0
+  },
+  "ccrichard": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "LittleNightOwl": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 1
+  },
+  "ipdr01": {
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "grigglebug": {
@@ -79,7 +55,15 @@
     "deletion_count": 0,
     "nsfw_deletion_count": 1
   },
+  "thegame": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
   "boxshredder": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Apollo69": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
