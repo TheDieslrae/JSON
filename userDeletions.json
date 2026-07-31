@@ -3,18 +3,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "ccrichard": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "LittleNightOwl": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 1
-  },
-  "ipdr01": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
   "grigglebug": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -41,6 +29,14 @@
   },
   "NaCl": {
     "deletion_count": 4,
+    "nsfw_deletion_count": 0
+  },
+  "LittleNightOwl": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "ipdr01": {
+    "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "dongbing": {
