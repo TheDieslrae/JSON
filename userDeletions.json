@@ -3,10 +3,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "smilen": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
   "ccrichard": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -44,7 +40,7 @@
     "nsfw_deletion_count": 0
   },
   "NaCl": {
-    "deletion_count": 3,
+    "deletion_count": 4,
     "nsfw_deletion_count": 0
   },
   "dongbing": {
@@ -53,6 +49,10 @@
   },
   "thegame": {
     "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "smilen": {
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "boxshredder": {
@@ -73,6 +73,14 @@
   },
   "bunchagames": {
     "deletion_count": 5,
+    "nsfw_deletion_count": 0
+  },
+  "hyiming": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "bbllyy": {
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   }
 }
