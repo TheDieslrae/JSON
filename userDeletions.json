@@ -16,7 +16,7 @@
     "nsfw_deletion_count": 0
   },
   "XXXXX": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "Zabal": {
@@ -130,5 +130,9 @@
   "ccrichard": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
+  },
+  "cjhui04": {
+    "deletion_count": 0,
+    "nsfw_deletion_count": 1
   }
 }
