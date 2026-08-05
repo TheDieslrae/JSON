@@ -16,7 +16,7 @@
     "nsfw_deletion_count": 0
   },
   "NaCl": {
-    "deletion_count": 8,
+    "deletion_count": 9,
     "nsfw_deletion_count": 0
   },
   "ipdr01": {
@@ -126,5 +126,13 @@
   "XXXXX": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
+  },
+  "IndI311": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "ArtemisPrime": {
+    "deletion_count": 0,
+    "nsfw_deletion_count": 1
   }
 }
