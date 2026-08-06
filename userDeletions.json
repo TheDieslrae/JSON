@@ -11,10 +11,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "smilen": {
-    "deletion_count": 8,
-    "nsfw_deletion_count": 0
-  },
   "boxshredder": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
@@ -36,6 +32,10 @@
     "nsfw_deletion_count": 0
   },
   "bunchagames": {
+    "deletion_count": 7,
+    "nsfw_deletion_count": 0
+  },
+  "smilen": {
     "deletion_count": 7,
     "nsfw_deletion_count": 0
   },
