@@ -11,14 +11,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "boxshredder": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "Apollo69": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
   "VGTal": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
@@ -105,6 +97,10 @@
   },
   "ccrichard": {
     "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "boxshredder": {
+    "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "thegame": {
