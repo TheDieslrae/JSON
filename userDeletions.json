@@ -24,7 +24,7 @@
     "nsfw_deletion_count": 0
   },
   "smilen": {
-    "deletion_count": 7,
+    "deletion_count": 8,
     "nsfw_deletion_count": 0
   },
   "hyiming": {
@@ -32,7 +32,7 @@
     "nsfw_deletion_count": 0
   },
   "bbllyy": {
-    "deletion_count": 4,
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "ovvo": {
@@ -76,11 +76,11 @@
     "nsfw_deletion_count": 0
   },
   "Zabal": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "dongbing": {
-    "deletion_count": 3,
+    "deletion_count": 4,
     "nsfw_deletion_count": 0
   },
   "j_0": {
@@ -120,7 +120,15 @@
     "nsfw_deletion_count": 0
   },
   "ArtemisPrime": {
-    "deletion_count": 0,
+    "deletion_count": 1,
     "nsfw_deletion_count": 1
+  },
+  "nd4467": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "rethalem": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
   }
 }
