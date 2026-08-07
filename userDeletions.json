@@ -11,28 +11,16 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "HarderQ": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 1
-  },
-  "NaCl": {
-    "deletion_count": 8,
-    "nsfw_deletion_count": 0
-  },
-  "bunchagames": {
-    "deletion_count": 7,
-    "nsfw_deletion_count": 0
-  },
-  "smilen": {
-    "deletion_count": 8,
-    "nsfw_deletion_count": 0
-  },
   "hyiming": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "bbllyy": {
-    "deletion_count": 5,
+    "deletion_count": 6,
+    "nsfw_deletion_count": 0
+  },
+  "NaCl": {
+    "deletion_count": 6,
     "nsfw_deletion_count": 0
   },
   "ovvo": {
@@ -42,6 +30,10 @@
   "efptc": {
     "deletion_count": 0,
     "nsfw_deletion_count": 1
+  },
+  "smilen": {
+    "deletion_count": 7,
+    "nsfw_deletion_count": 0
   },
   "raggius": {
     "deletion_count": 1,
@@ -65,7 +57,7 @@
   },
   "acexxxxx": {
     "deletion_count": 2,
-    "nsfw_deletion_count": 0
+    "nsfw_deletion_count": 1
   },
   "Chiquopenko": {
     "deletion_count": 1,
@@ -73,6 +65,14 @@
   },
   "hanboys": {
     "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "bunchagames": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "HarderQ": {
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "Zabal": {
@@ -92,7 +92,7 @@
     "nsfw_deletion_count": 0
   },
   "ccrichard": {
-    "deletion_count": 2,
+    "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
   "boxshredder": {
@@ -128,6 +128,18 @@
     "nsfw_deletion_count": 0
   },
   "rethalem": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "PizzaSlice": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Wolfgang": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Apollo69": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
