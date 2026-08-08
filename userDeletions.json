@@ -150,5 +150,17 @@
   "waiter7": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
+  },
+  "kief": {
+    "deletion_count": 3,
+    "nsfw_deletion_count": 0
+  },
+  "zeez": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Nallen": {
+    "deletion_count": 0,
+    "nsfw_deletion_count": 1
   }
 }
