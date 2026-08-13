@@ -1,6 +1,6 @@
 {
   "XXXXX": {
-    "deletion_count": 1,
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "ccrichard": {
@@ -16,6 +16,18 @@
     "nsfw_deletion_count": 0
   },
   "luque64789": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "PizzaSlice": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "NaCl": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "bbllyy": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
