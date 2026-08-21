@@ -3,6 +3,10 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
+  "hanboys": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
   "XXXXX": {
     "deletion_count": 6,
     "nsfw_deletion_count": 0
@@ -68,6 +72,18 @@
     "nsfw_deletion_count": 0
   },
   "CactusFrankie": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Nallen": {
+    "deletion_count": 0,
+    "nsfw_deletion_count": 1
+  },
+  "hyiming": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "villagej": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
