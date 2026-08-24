@@ -7,10 +7,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "XXXXX": {
-    "deletion_count": 6,
-    "nsfw_deletion_count": 0
-  },
   "ccrichard": {
     "deletion_count": 3,
     "nsfw_deletion_count": 0
@@ -25,6 +21,10 @@
   },
   "luque64789": {
     "deletion_count": 3,
+    "nsfw_deletion_count": 0
+  },
+  "XXXXX": {
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "PizzaSlice": {
