@@ -7,10 +7,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "qingfeng": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 1
-  },
   "zeez": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -58,6 +54,10 @@
   "darkness": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
+  },
+  "qingfeng": {
+    "deletion_count": 0,
+    "nsfw_deletion_count": 1
   },
   "ccrichard": {
     "deletion_count": 1,
