@@ -11,22 +11,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "luque64789": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "darkness": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "qingfeng": {
-    "deletion_count": 0,
-    "nsfw_deletion_count": 1
-  },
-  "smilen": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
   "ccrichard": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -53,6 +37,10 @@
   },
   "CactusFrankie": {
     "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "smilen": {
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "thegame": {
@@ -92,6 +80,10 @@
     "nsfw_deletion_count": 0
   },
   "Hitokiri1985": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "darkness": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
