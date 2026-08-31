@@ -1,13 +1,17 @@
 {
-  "Aspirants_dream": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
   "hanboys": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "smoke1999": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "exec": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Lament": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
