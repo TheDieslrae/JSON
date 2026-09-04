@@ -15,18 +15,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "smilen": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "NaCl": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "thegame": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
   "Nallen": {
     "deletion_count": 0,
     "nsfw_deletion_count": 1
@@ -36,6 +24,10 @@
     "nsfw_deletion_count": 0
   },
   "villagej": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "smilen": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
