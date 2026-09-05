@@ -15,10 +15,6 @@
     "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
-  "smilen": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
   "Brenzo": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -28,7 +24,7 @@
     "nsfw_deletion_count": 0
   },
   "HavidDasselhoff": {
-    "deletion_count": 6,
+    "deletion_count": 7,
     "nsfw_deletion_count": 0
   },
   "waiter7": {
@@ -60,7 +56,7 @@
     "nsfw_deletion_count": 0
   },
   "dongbing": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "ShaneO": {
@@ -102,5 +98,17 @@
   "ipdr01": {
     "deletion_count": 0,
     "nsfw_deletion_count": 1
+  },
+  "phil": {
+    "deletion_count": 6,
+    "nsfw_deletion_count": 0
+  },
+  "swamp": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "yuna": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
   }
 }
