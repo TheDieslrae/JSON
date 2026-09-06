@@ -76,7 +76,7 @@
     "nsfw_deletion_count": 0
   },
   "fad2": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "CJETMYY": {
@@ -100,7 +100,7 @@
     "nsfw_deletion_count": 1
   },
   "phil": {
-    "deletion_count": 6,
+    "deletion_count": 8,
     "nsfw_deletion_count": 0
   },
   "swamp": {
@@ -108,6 +108,10 @@
     "nsfw_deletion_count": 0
   },
   "yuna": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Zabal": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
