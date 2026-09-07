@@ -15,10 +15,6 @@
     "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
-  "hyiming": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
   "HavidDasselhoff": {
     "deletion_count": 7,
     "nsfw_deletion_count": 0
@@ -44,6 +40,10 @@
     "nsfw_deletion_count": 0
   },
   "darkness": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "hyiming": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
