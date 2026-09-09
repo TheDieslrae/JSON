@@ -72,7 +72,7 @@
     "nsfw_deletion_count": 0
   },
   "fad2": {
-    "deletion_count": 2,
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "CJETMYY": {
@@ -96,7 +96,7 @@
     "nsfw_deletion_count": 1
   },
   "phil": {
-    "deletion_count": 8,
+    "deletion_count": 9,
     "nsfw_deletion_count": 0
   },
   "swamp": {
@@ -120,6 +120,22 @@
     "nsfw_deletion_count": 0
   },
   "Apollo69": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "qingfeng": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "thegame": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "TheFranswer": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Wolvex": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
