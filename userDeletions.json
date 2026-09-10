@@ -15,32 +15,12 @@
     "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
-  "bbllyy": {
-    "deletion_count": 5,
-    "nsfw_deletion_count": 0
-  },
-  "XXXXX": {
+  "hyiming": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "HavidDasselhoff": {
-    "deletion_count": 6,
-    "nsfw_deletion_count": 0
-  },
-  "LordVorlock": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
-  "Hitokiri1985": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "darkness": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "hyiming": {
-    "deletion_count": 1,
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "proterozoi": {
@@ -55,12 +35,20 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
+  "LordVorlock": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
   "inclark": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "oOo": {
     "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "bbllyy": {
+    "deletion_count": 4,
     "nsfw_deletion_count": 0
   },
   "ccrichard": {
@@ -100,7 +88,7 @@
     "nsfw_deletion_count": 0
   },
   "yuna": {
-    "deletion_count": 5,
+    "deletion_count": 6,
     "nsfw_deletion_count": 0
   },
   "Zabal": {
@@ -134,5 +122,13 @@
   "Wolvex": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
+  },
+  "DanCousins": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "jiyi98787": {
+    "deletion_count": 0,
+    "nsfw_deletion_count": 1
   }
 }
