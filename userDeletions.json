@@ -15,14 +15,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "hyiming": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "HavidDasselhoff": {
-    "deletion_count": 6,
-    "nsfw_deletion_count": 0
-  },
   "proterozoi": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
@@ -37,6 +29,10 @@
   },
   "LordVorlock": {
     "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "HavidDasselhoff": {
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "inclark": {
@@ -130,5 +126,13 @@
   "jiyi98787": {
     "deletion_count": 0,
     "nsfw_deletion_count": 1
+  },
+  "Wolfgang": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "goodstudent": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
   }
 }
