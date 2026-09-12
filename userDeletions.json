@@ -15,14 +15,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "proterozoi": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "dongbing": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
   "ShaneO": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -41,6 +33,10 @@
   },
   "oOo": {
     "deletion_count": 3,
+    "nsfw_deletion_count": 0
+  },
+  "proterozoi": {
+    "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "bbllyy": {
@@ -74,6 +70,10 @@
   "ipdr01": {
     "deletion_count": 0,
     "nsfw_deletion_count": 1
+  },
+  "dongbing": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
   },
   "phil": {
     "deletion_count": 10,
