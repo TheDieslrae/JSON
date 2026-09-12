@@ -76,7 +76,7 @@
     "nsfw_deletion_count": 1
   },
   "phil": {
-    "deletion_count": 9,
+    "deletion_count": 10,
     "nsfw_deletion_count": 0
   },
   "swamp": {
@@ -120,7 +120,7 @@
     "nsfw_deletion_count": 0
   },
   "DanCousins": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "jiyi98787": {
@@ -132,6 +132,14 @@
     "nsfw_deletion_count": 0
   },
   "goodstudent": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "tetrisenjoyer153": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Adonis142857": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
