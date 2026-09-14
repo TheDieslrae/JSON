@@ -1,12 +1,4 @@
 {
-  "exec": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "Lament": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
   "bubblebobble": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
@@ -79,6 +71,10 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
+  "exec": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
   "yangfafaf": {
     "deletion_count": 3,
     "nsfw_deletion_count": 0
@@ -142,5 +138,13 @@
   "bunny3": {
     "deletion_count": 0,
     "nsfw_deletion_count": 1
+  },
+  "cuzlyus": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "TabStability": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
   }
 }
