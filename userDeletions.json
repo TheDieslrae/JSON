@@ -7,6 +7,10 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
+  "bunny3": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 1
+  },
   "proterozoi": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -128,22 +132,22 @@
     "nsfw_deletion_count": 0
   },
   "oOo": {
-    "deletion_count": 4,
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "Nolita": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "bunny3": {
-    "deletion_count": 0,
-    "nsfw_deletion_count": 1
-  },
   "cuzlyus": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "TabStability": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "cpgamar": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
