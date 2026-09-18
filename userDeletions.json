@@ -1,8 +1,4 @@
 {
-  "bubblebobble": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
   "Brenzo": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -14,30 +10,6 @@
   "smoke1999": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
-  },
-  "CJETMYY": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "NaCl": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "HavidDasselhoff": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
-  "iamralph": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "Namilosel": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "ipdr01": {
-    "deletion_count": 0,
-    "nsfw_deletion_count": 1
   },
   "LordVorlock": {
     "deletion_count": 1,
@@ -51,6 +23,10 @@
     "deletion_count": 10,
     "nsfw_deletion_count": 0
   },
+  "HavidDasselhoff": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
   "swamp": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -60,7 +36,7 @@
     "nsfw_deletion_count": 0
   },
   "fad2": {
-    "deletion_count": 4,
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "Zabal": {
@@ -85,6 +61,10 @@
   },
   "Apollo69": {
     "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "NaCl": {
+    "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "qingfeng": {
@@ -128,7 +108,7 @@
     "nsfw_deletion_count": 0
   },
   "oOo": {
-    "deletion_count": 6,
+    "deletion_count": 7,
     "nsfw_deletion_count": 0
   },
   "Nolita": {
