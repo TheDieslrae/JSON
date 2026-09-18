@@ -11,6 +11,10 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 1
   },
+  "smoke1999": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
   "CJETMYY": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -52,7 +56,7 @@
     "nsfw_deletion_count": 0
   },
   "yuna": {
-    "deletion_count": 9,
+    "deletion_count": 10,
     "nsfw_deletion_count": 0
   },
   "fad2": {
@@ -64,7 +68,7 @@
     "nsfw_deletion_count": 0
   },
   "exec": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "yangfafaf": {
@@ -80,7 +84,7 @@
     "nsfw_deletion_count": 0
   },
   "Apollo69": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "qingfeng": {
@@ -124,7 +128,7 @@
     "nsfw_deletion_count": 0
   },
   "oOo": {
-    "deletion_count": 5,
+    "deletion_count": 6,
     "nsfw_deletion_count": 0
   },
   "Nolita": {
@@ -156,6 +160,14 @@
     "nsfw_deletion_count": 0
   },
   "randombox": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Gozde": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "wuyaos": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
