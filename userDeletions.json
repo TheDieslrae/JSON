@@ -11,18 +11,6 @@
     "deletion_count": 4,
     "nsfw_deletion_count": 0
   },
-  "phil": {
-    "deletion_count": 5,
-    "nsfw_deletion_count": 0
-  },
-  "fad2": {
-    "deletion_count": 6,
-    "nsfw_deletion_count": 0
-  },
-  "Zabal": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
   "exec": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
@@ -51,6 +39,14 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
+  "fad2": {
+    "deletion_count": 5,
+    "nsfw_deletion_count": 0
+  },
+  "phil": {
+    "deletion_count": 3,
+    "nsfw_deletion_count": 0
+  },
   "qingfeng": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -76,7 +72,7 @@
     "nsfw_deletion_count": 0
   },
   "jiyi98787": {
-    "deletion_count": 0,
+    "deletion_count": 2,
     "nsfw_deletion_count": 1
   },
   "HavidDasselhoff": {
@@ -100,7 +96,7 @@
     "nsfw_deletion_count": 0
   },
   "oOo": {
-    "deletion_count": 7,
+    "deletion_count": 8,
     "nsfw_deletion_count": 0
   },
   "Nolita": {
