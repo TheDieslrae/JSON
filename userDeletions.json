@@ -11,12 +11,8 @@
     "deletion_count": 4,
     "nsfw_deletion_count": 0
   },
-  "yangfafaf": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
   "yuna": {
-    "deletion_count": 9,
+    "deletion_count": 8,
     "nsfw_deletion_count": 0
   },
   "bbllyy": {
@@ -73,6 +69,10 @@
   },
   "HavidDasselhoff": {
     "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "yangfafaf": {
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "Wolfgang": {
