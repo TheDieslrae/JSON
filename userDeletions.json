@@ -1,8 +1,4 @@
 {
-  "Brenzo": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
   "bunny3": {
     "deletion_count": 1,
     "nsfw_deletion_count": 1
@@ -13,14 +9,6 @@
   },
   "horsecode": {
     "deletion_count": 135,
-    "nsfw_deletion_count": 0
-  },
-  "HavidDasselhoff": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "yangfafaf": {
-    "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
   "Wolfgang": {
@@ -65,6 +53,10 @@
   },
   "yuna": {
     "deletion_count": 5,
+    "nsfw_deletion_count": 0
+  },
+  "yangfafaf": {
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "cuzlyus": {
@@ -116,6 +108,10 @@
     "nsfw_deletion_count": 0
   },
   "reaper29": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Brenzo": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
