@@ -11,24 +11,16 @@
     "deletion_count": 135,
     "nsfw_deletion_count": 0
   },
-  "DanCousins": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
   "tetrisenjoyer153": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 1
-  },
-  "phil": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
-  "Adonis142857": {
     "deletion_count": 1,
-    "nsfw_deletion_count": 0
+    "nsfw_deletion_count": 1
   },
   "oOo": {
     "deletion_count": 15,
+    "nsfw_deletion_count": 0
+  },
+  "DanCousins": {
+    "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "Nolita": {
@@ -107,6 +99,10 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
+  "phil": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
   "jiyi98787": {
     "deletion_count": 4,
     "nsfw_deletion_count": 0
@@ -157,6 +153,14 @@
   },
   "thane": {
     "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "dots27": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "qingfeng": {
+    "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
 }
