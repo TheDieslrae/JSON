@@ -11,32 +11,16 @@
     "deletion_count": 135,
     "nsfw_deletion_count": 0
   },
-  "tetrisenjoyer153": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 1
-  },
-  "oOo": {
-    "deletion_count": 15,
-    "nsfw_deletion_count": 0
-  },
-  "DanCousins": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "Nolita": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "ccrichard": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
   "bbllyy": {
     "deletion_count": 6,
     "nsfw_deletion_count": 0
   },
   "yuna": {
     "deletion_count": 5,
+    "nsfw_deletion_count": 0
+  },
+  "oOo": {
+    "deletion_count": 14,
     "nsfw_deletion_count": 0
   },
   "yangfafaf": {
@@ -66,6 +50,10 @@
   "randombox": {
     "deletion_count": 4,
     "nsfw_deletion_count": 0
+  },
+  "tetrisenjoyer153": {
+    "deletion_count": 0,
+    "nsfw_deletion_count": 1
   },
   "Gozde": {
     "deletion_count": 1,
@@ -123,8 +111,12 @@
     "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
-  "NaCl": {
+  "ccrichard": {
     "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "NaCl": {
+    "deletion_count": 4,
     "nsfw_deletion_count": 0
   },
   "floppasaurus": {
@@ -160,6 +152,10 @@
     "nsfw_deletion_count": 0
   },
   "qingfeng": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Emote": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
