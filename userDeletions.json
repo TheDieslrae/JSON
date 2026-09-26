@@ -1,10 +1,10 @@
 {
   "bunny3": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 1
   },
   "smoke1999": {
-    "deletion_count": 5,
+    "deletion_count": 6,
     "nsfw_deletion_count": 0
   },
   "horsecode": {
@@ -92,7 +92,7 @@
     "nsfw_deletion_count": 0
   },
   "jiyi98787": {
-    "deletion_count": 4,
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "thegame": {
@@ -156,7 +156,7 @@
     "nsfw_deletion_count": 0
   },
   "Emote": {
-    "deletion_count": 1,
+    "deletion_count": 3,
     "nsfw_deletion_count": 0
   }
 }
