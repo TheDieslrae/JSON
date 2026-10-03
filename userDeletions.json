@@ -1,6 +1,6 @@
 {
   "smoke1999": {
-    "deletion_count": 6,
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "horsecode": {
@@ -9,26 +9,6 @@
   },
   "bunny3": {
     "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "reaper29": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "bbllyy": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
-  "Brenzo": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "fad2": {
-    "deletion_count": 5,
-    "nsfw_deletion_count": 0
-  },
-  "phil": {
-    "deletion_count": 4,
     "nsfw_deletion_count": 0
   },
   "randombox": {
@@ -41,6 +21,10 @@
   },
   "oOo": {
     "deletion_count": 14,
+    "nsfw_deletion_count": 0
+  },
+  "bbllyy": {
+    "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "Apollo69": {
@@ -83,6 +67,10 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
+  "phil": {
+    "deletion_count": 3,
+    "nsfw_deletion_count": 0
+  },
   "yuna": {
     "deletion_count": 4,
     "nsfw_deletion_count": 0
@@ -121,6 +109,10 @@
   },
   "Emote": {
     "deletion_count": 3,
+    "nsfw_deletion_count": 0
+  },
+  "fad2": {
+    "deletion_count": 4,
     "nsfw_deletion_count": 0
   },
   "efptc": {
