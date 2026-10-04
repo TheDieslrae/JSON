@@ -11,10 +11,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "randombox": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
   "jiyi98787": {
     "deletion_count": 8,
     "nsfw_deletion_count": 0
@@ -41,6 +37,10 @@
   },
   "segal": {
     "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "randombox": {
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "Cathod3": {
