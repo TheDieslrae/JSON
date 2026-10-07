@@ -32,7 +32,7 @@
     "nsfw_deletion_count": 0
   },
   "ccrichard": {
-    "deletion_count": 10,
+    "deletion_count": 11,
     "nsfw_deletion_count": 0
   },
   "Kardyro": {
@@ -60,7 +60,7 @@
     "nsfw_deletion_count": 0
   },
   "randombox": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "thane": {
@@ -144,6 +144,14 @@
     "nsfw_deletion_count": 0
   },
   "crayfish": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "ipdr01": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "xxshapeless": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
