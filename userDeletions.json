@@ -1,62 +1,14 @@
 {
-  "horsecode": {
-    "deletion_count": 135,
-    "nsfw_deletion_count": 0
-  },
   "smoke1999": {
-    "deletion_count": 3,
+    "deletion_count": 4,
     "nsfw_deletion_count": 0
   },
   "bunny3": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "jiyi98787": {
-    "deletion_count": 8,
-    "nsfw_deletion_count": 0
-  },
-  "oOo": {
-    "deletion_count": 14,
-    "nsfw_deletion_count": 0
-  },
-  "bbllyy": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "Apollo69": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "thegame": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
-  "gesake13": {
-    "deletion_count": 7,
-    "nsfw_deletion_count": 0
-  },
-  "segal": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "randombox": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "Cathod3": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "yangfafaf": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "ccrichard": {
-    "deletion_count": 8,
-    "nsfw_deletion_count": 0
-  },
   "NaCl": {
-    "deletion_count": 4,
+    "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
   "wuyaos": {
@@ -79,19 +31,35 @@
     "deletion_count": 4,
     "nsfw_deletion_count": 0
   },
+  "ccrichard": {
+    "deletion_count": 10,
+    "nsfw_deletion_count": 0
+  },
   "Kardyro": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
+  "gesake13": {
+    "deletion_count": 5,
+    "nsfw_deletion_count": 0
+  },
   "swamp": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "Zabal": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
+  "horsecode": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
   "minus_1": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "randombox": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
@@ -107,8 +75,20 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
+  "oOo": {
+    "deletion_count": 6,
+    "nsfw_deletion_count": 0
+  },
   "Emote": {
     "deletion_count": 3,
+    "nsfw_deletion_count": 0
+  },
+  "jiyi98787": {
+    "deletion_count": 4,
+    "nsfw_deletion_count": 0
+  },
+  "thegame": {
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "fad2": {
@@ -160,6 +140,10 @@
     "nsfw_deletion_count": 0
   },
   "Adonis142857": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "crayfish": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
