@@ -7,14 +7,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "phil": {
-    "deletion_count": 4,
-    "nsfw_deletion_count": 0
-  },
-  "yuna": {
-    "deletion_count": 4,
-    "nsfw_deletion_count": 0
-  },
   "thekingame": {
     "deletion_count": 4,
     "nsfw_deletion_count": 0
@@ -95,12 +87,20 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
+  "yuna": {
+    "deletion_count": 3,
+    "nsfw_deletion_count": 0
+  },
   "Nolita": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "persuvius": {
     "deletion_count": 13,
+    "nsfw_deletion_count": 0
+  },
+  "phil": {
+    "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
   "RitsukoP": {
