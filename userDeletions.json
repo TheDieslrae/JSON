@@ -1,17 +1,9 @@
 {
   "smoke1999": {
-    "deletion_count": 4,
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "bunny3": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "wuyaos": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "floppasaurus": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
@@ -137,6 +129,10 @@
   },
   "HavidDasselhoff": {
     "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "wuyaos": {
+    "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "Adonis142857": {
