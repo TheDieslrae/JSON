@@ -7,6 +7,10 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
+  "bubblebobble": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
   "randombox": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
@@ -140,6 +144,10 @@
     "nsfw_deletion_count": 0
   },
   "predest": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Spline": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
