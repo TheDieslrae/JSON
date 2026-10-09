@@ -7,38 +7,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "thekingame": {
-    "deletion_count": 4,
-    "nsfw_deletion_count": 0
-  },
-  "ccrichard": {
-    "deletion_count": 11,
-    "nsfw_deletion_count": 0
-  },
-  "Kardyro": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "gesake13": {
-    "deletion_count": 5,
-    "nsfw_deletion_count": 0
-  },
-  "swamp": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "Zabal": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "horsecode": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "minus_1": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
   "randombox": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
@@ -83,12 +51,20 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
+  "ccrichard": {
+    "deletion_count": 10,
+    "nsfw_deletion_count": 0
+  },
   "cuzlyus": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "yuna": {
     "deletion_count": 3,
+    "nsfw_deletion_count": 0
+  },
+  "gesake13": {
+    "deletion_count": 4,
     "nsfw_deletion_count": 0
   },
   "Nolita": {
@@ -136,6 +112,10 @@
     "nsfw_deletion_count": 0
   },
   "Adonis142857": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "swamp": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
