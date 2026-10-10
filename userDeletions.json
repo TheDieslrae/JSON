@@ -158,5 +158,9 @@
   "bunchagames": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
+  },
+  "sosabich": {
+    "deletion_count": 0,
+    "nsfw_deletion_count": 1
   }
 }
