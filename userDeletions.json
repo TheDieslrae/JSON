@@ -1,10 +1,6 @@
 {
   "smoke1999": {
-    "deletion_count": 5,
-    "nsfw_deletion_count": 0
-  },
-  "bunny3": {
-    "deletion_count": 1,
+    "deletion_count": 4,
     "nsfw_deletion_count": 0
   },
   "bubblebobble": {
@@ -15,16 +11,12 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "Emote": {
+  "thegame": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "jiyi98787": {
-    "deletion_count": 4,
-    "nsfw_deletion_count": 0
-  },
-  "thegame": {
-    "deletion_count": 2,
+    "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
   "fad2": {
