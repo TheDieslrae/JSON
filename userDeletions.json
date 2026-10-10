@@ -132,11 +132,11 @@
     "nsfw_deletion_count": 0
   },
   "NichtSenza": {
-    "deletion_count": 0,
+    "deletion_count": 1,
     "nsfw_deletion_count": 1
   },
   "bbllyy": {
-    "deletion_count": 2,
+    "deletion_count": 4,
     "nsfw_deletion_count": 0
   },
   "predest": {
@@ -152,6 +152,10 @@
     "nsfw_deletion_count": 0
   },
   "Zabal": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "bunchagames": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
