@@ -15,16 +15,8 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "oOo": {
-    "deletion_count": 6,
-    "nsfw_deletion_count": 0
-  },
   "Emote": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
-  "NaCl": {
-    "deletion_count": 3,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "jiyi98787": {
@@ -37,6 +29,10 @@
   },
   "fad2": {
     "deletion_count": 4,
+    "nsfw_deletion_count": 0
+  },
+  "oOo": {
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "efptc": {
@@ -144,6 +140,10 @@
     "nsfw_deletion_count": 0
   },
   "Spline": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "NaCl": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
