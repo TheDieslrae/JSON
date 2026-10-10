@@ -11,22 +11,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "randombox": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "thane": {
-    "deletion_count": 4,
-    "nsfw_deletion_count": 0
-  },
-  "dots27": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "qingfeng": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
   "oOo": {
     "deletion_count": 6,
     "nsfw_deletion_count": 0
@@ -69,6 +53,10 @@
   },
   "gesake13": {
     "deletion_count": 4,
+    "nsfw_deletion_count": 0
+  },
+  "thane": {
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "Nolita": {
@@ -132,6 +120,10 @@
     "nsfw_deletion_count": 0
   },
   "xxshapeless": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "randombox": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
