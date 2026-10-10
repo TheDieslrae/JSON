@@ -11,6 +11,10 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
+  "DarKZcrew": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
   "oOo": {
     "deletion_count": 6,
     "nsfw_deletion_count": 0
@@ -20,7 +24,7 @@
     "nsfw_deletion_count": 0
   },
   "NaCl": {
-    "deletion_count": 2,
+    "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
   "jiyi98787": {
@@ -124,7 +128,7 @@
     "nsfw_deletion_count": 0
   },
   "randombox": {
-    "deletion_count": 1,
+    "deletion_count": 4,
     "nsfw_deletion_count": 0
   },
   "NichtSenza": {
@@ -132,7 +136,7 @@
     "nsfw_deletion_count": 1
   },
   "bbllyy": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "predest": {
@@ -140,6 +144,14 @@
     "nsfw_deletion_count": 0
   },
   "Spline": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "TabStability": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Zabal": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
