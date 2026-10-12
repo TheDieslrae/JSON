@@ -11,10 +11,6 @@
     "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
-  "ccrichard": {
-    "deletion_count": 10,
-    "nsfw_deletion_count": 0
-  },
   "oOo": {
     "deletion_count": 4,
     "nsfw_deletion_count": 0
@@ -73,6 +69,10 @@
   },
   "iamralph": {
     "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "ccrichard": {
+    "deletion_count": 9,
     "nsfw_deletion_count": 0
   },
   "HavidDasselhoff": {
