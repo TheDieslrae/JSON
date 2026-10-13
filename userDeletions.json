@@ -56,7 +56,7 @@
     "nsfw_deletion_count": 0
   },
   "ccrichard": {
-    "deletion_count": 9,
+    "deletion_count": 10,
     "nsfw_deletion_count": 0
   },
   "HavidDasselhoff": {
@@ -80,7 +80,7 @@
     "nsfw_deletion_count": 0
   },
   "phil": {
-    "deletion_count": 2,
+    "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
   "swamp": {
@@ -156,7 +156,7 @@
     "nsfw_deletion_count": 0
   },
   "DrFJGentle": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "exec": {
@@ -172,6 +172,10 @@
     "nsfw_deletion_count": 0
   },
   "neverflows": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "horsecode": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
