@@ -11,10 +11,6 @@
     "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
-  "ccrichard": {
-    "deletion_count": 11,
-    "nsfw_deletion_count": 0
-  },
   "beastrouen": {
     "deletion_count": 3,
     "nsfw_deletion_count": 0
@@ -33,6 +29,10 @@
   },
   "fad2": {
     "deletion_count": 8,
+    "nsfw_deletion_count": 0
+  },
+  "ccrichard": {
+    "deletion_count": 10,
     "nsfw_deletion_count": 0
   },
   "gesake13": {
