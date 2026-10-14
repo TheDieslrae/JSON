@@ -1,6 +1,6 @@
 {
   "smoke1999": {
-    "deletion_count": 5,
+    "deletion_count": 4,
     "nsfw_deletion_count": 0
   },
   "bubblebobble": {
@@ -20,7 +20,7 @@
     "nsfw_deletion_count": 1
   },
   "ccrichard": {
-    "deletion_count": 10,
+    "deletion_count": 11,
     "nsfw_deletion_count": 0
   },
   "HavidDasselhoff": {
@@ -36,7 +36,7 @@
     "nsfw_deletion_count": 0
   },
   "fad2": {
-    "deletion_count": 7,
+    "deletion_count": 8,
     "nsfw_deletion_count": 0
   },
   "gesake13": {
@@ -84,7 +84,7 @@
     "nsfw_deletion_count": 1
   },
   "bbllyy": {
-    "deletion_count": 6,
+    "deletion_count": 8,
     "nsfw_deletion_count": 0
   },
   "predest": {
@@ -100,7 +100,7 @@
     "nsfw_deletion_count": 0
   },
   "TabStability": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "Zabal": {
@@ -164,6 +164,14 @@
     "nsfw_deletion_count": 0
   },
   "horsecode": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "undadog4eva": {
+    "deletion_count": 5,
+    "nsfw_deletion_count": 0
+  },
+  "yangfafaf": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
