@@ -11,10 +11,6 @@
     "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
-  "oOo": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
   "fad2": {
     "deletion_count": 8,
     "nsfw_deletion_count": 0
@@ -168,6 +164,10 @@
     "nsfw_deletion_count": 0
   },
   "yangfafaf": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Cathod3": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
