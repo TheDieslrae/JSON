@@ -11,41 +11,17 @@
     "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
-  "oOo": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "RitsukoP": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "persuvius": {
-    "deletion_count": 11,
-    "nsfw_deletion_count": 0
-  },
-  "thane": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "cy1der": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "beastrouen": {
-    "deletion_count": 5,
-    "nsfw_deletion_count": 1
-  },
-  "bowza34": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "dongbing": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
   "yuna": {
     "deletion_count": 7,
     "nsfw_deletion_count": 0
+  },
+  "persuvius": {
+    "deletion_count": 5,
+    "nsfw_deletion_count": 0
+  },
+  "beastrouen": {
+    "deletion_count": 4,
+    "nsfw_deletion_count": 1
   },
   "fad2": {
     "deletion_count": 8,
@@ -61,6 +37,10 @@
   },
   "HavidDasselhoff": {
     "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "oOo": {
+    "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "gesake13": {
@@ -143,7 +123,15 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
+  "cy1der": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
   "mactruck": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "dongbing": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
