@@ -11,14 +11,6 @@
     "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
-  "fad2": {
-    "deletion_count": 9,
-    "nsfw_deletion_count": 0
-  },
-  "ccrichard": {
-    "deletion_count": 10,
-    "nsfw_deletion_count": 0
-  },
   "persuvius": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
@@ -45,6 +37,10 @@
   },
   "phil": {
     "deletion_count": 3,
+    "nsfw_deletion_count": 0
+  },
+  "ccrichard": {
+    "deletion_count": 9,
     "nsfw_deletion_count": 0
   },
   "swamp": {
@@ -137,6 +133,10 @@
   },
   "DrFJGentle": {
     "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "fad2": {
+    "deletion_count": 8,
     "nsfw_deletion_count": 0
   },
   "exec": {
