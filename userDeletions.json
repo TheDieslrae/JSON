@@ -12,7 +12,7 @@
     "nsfw_deletion_count": 0
   },
   "ccrichard": {
-    "deletion_count": 9,
+    "deletion_count": 10,
     "nsfw_deletion_count": 0
   },
   "gesake13": {
@@ -161,6 +161,10 @@
   },
   "Nolita": {
     "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "Strickie": {
+    "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
 }
