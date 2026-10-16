@@ -168,7 +168,27 @@
     "nsfw_deletion_count": 0
   },
   "aleph": {
-    "deletion_count": 3,
+    "deletion_count": 4,
+    "nsfw_deletion_count": 0
+  },
+  "Nikkored": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "x0x0y0y0": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "rzr": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Pacha2": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "harryklein": {
+    "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
 }
