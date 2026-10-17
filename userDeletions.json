@@ -88,7 +88,7 @@
     "nsfw_deletion_count": 1
   },
   "numerik": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "yuna": {
@@ -108,7 +108,7 @@
     "nsfw_deletion_count": 0
   },
   "TheFranswer": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "beastrouen": {
@@ -160,7 +160,7 @@
     "nsfw_deletion_count": 0
   },
   "Nolita": {
-    "deletion_count": 2,
+    "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
   "Strickie": {
@@ -192,6 +192,18 @@
     "nsfw_deletion_count": 0
   },
   "oOo": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Sorayuki": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "feng9148": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "eise": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
