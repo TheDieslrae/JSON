@@ -11,20 +11,12 @@
     "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
-  "gesake13": {
+  "jiyi98787": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "ccrichard": {
-    "deletion_count": 10,
-    "nsfw_deletion_count": 0
-  },
-  "phil": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "jiyi98787": {
-    "deletion_count": 1,
+    "deletion_count": 9,
     "nsfw_deletion_count": 0
   },
   "swamp": {
@@ -140,6 +132,14 @@
     "nsfw_deletion_count": 0
   },
   "neverflows": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "gesake13": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "phil": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
