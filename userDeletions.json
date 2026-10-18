@@ -76,7 +76,7 @@
     "nsfw_deletion_count": 1
   },
   "numerik": {
-    "deletion_count": 2,
+    "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
   "yuna": {
@@ -204,10 +204,14 @@
     "nsfw_deletion_count": 0
   },
   "jiyi98787": {
-    "deletion_count": 2,
+    "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
   "Magolor": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "fujiyousei": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
