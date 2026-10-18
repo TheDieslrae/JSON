@@ -16,7 +16,7 @@
     "nsfw_deletion_count": 0
   },
   "swamp": {
-    "deletion_count": 4,
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "crayfish": {
@@ -204,6 +204,10 @@
     "nsfw_deletion_count": 0
   },
   "jiyi98787": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "Magolor": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
