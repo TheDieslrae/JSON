@@ -1,8 +1,4 @@
 {
-  "bubblebobble": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
   "DarKZcrew": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
@@ -145,6 +141,10 @@
   },
   "Nolita": {
     "deletion_count": 3,
+    "nsfw_deletion_count": 0
+  },
+  "bubblebobble": {
+    "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "Strickie": {
