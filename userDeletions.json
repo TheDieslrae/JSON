@@ -1,8 +1,4 @@
 {
-  "DarKZcrew": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
   "smoke1999": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -57,6 +53,10 @@
   },
   "yuna": {
     "deletion_count": 6,
+    "nsfw_deletion_count": 0
+  },
+  "DarKZcrew": {
+    "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "cy1der": {
