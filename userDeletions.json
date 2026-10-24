@@ -15,34 +15,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "NaCl": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "randombox": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
-  "TabStability": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "Zabal": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "bbllyy": {
-    "deletion_count": 11,
-    "nsfw_deletion_count": 0
-  },
-  "bunchagames": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "NichtSenza": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
   "sosabich": {
     "deletion_count": 0,
     "nsfw_deletion_count": 1
@@ -103,6 +75,10 @@
     "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
+  "NichtSenza": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
   "qingfeng": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -115,7 +91,15 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
+  "bbllyy": {
+    "deletion_count": 8,
+    "nsfw_deletion_count": 0
+  },
   "gesake13": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "NaCl": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
@@ -133,6 +117,10 @@
   },
   "undadog4eva": {
     "deletion_count": 5,
+    "nsfw_deletion_count": 0
+  },
+  "TabStability": {
+    "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "yangfafaf": {
