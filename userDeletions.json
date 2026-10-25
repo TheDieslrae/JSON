@@ -186,5 +186,13 @@
   "zero0707": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
+  },
+  "dongbing": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "hyiming": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
   }
 }
