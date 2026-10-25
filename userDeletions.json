@@ -15,60 +15,16 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "dongbing": {
+  "neverflows": {
     "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "swamp": {
-    "deletion_count": 5,
-    "nsfw_deletion_count": 0
-  },
-  "TheFranswer": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
-  "beastrouen": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
-  "amerzone": {
-    "deletion_count": 5,
-    "nsfw_deletion_count": 0
-  },
-  "DrFJGentle": {
-    "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
   "yuna": {
-    "deletion_count": 5,
+    "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "fad2": {
-    "deletion_count": 9,
-    "nsfw_deletion_count": 0
-  },
-  "exec": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "thegame": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
-  "NichtSenza": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "qingfeng": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "predest": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "neverflows": {
-    "deletion_count": 1,
+    "deletion_count": 7,
     "nsfw_deletion_count": 0
   },
   "bbllyy": {
@@ -89,6 +45,10 @@
   },
   "horsecode": {
     "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "DrFJGentle": {
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "ccrichard": {
@@ -159,6 +119,10 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
+  "TheFranswer": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
   "numerik": {
     "deletion_count": 4,
     "nsfw_deletion_count": 0
@@ -179,6 +143,10 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
+  "swamp": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
   "fujiyousei": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -195,11 +163,19 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
+  "beastrouen": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
   "Adonis142857": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "electricsponge": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "thegame": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
