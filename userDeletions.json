@@ -28,7 +28,7 @@
     "nsfw_deletion_count": 0
   },
   "phil": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 1
   },
   "horsecode": {
@@ -188,6 +188,10 @@
     "nsfw_deletion_count": 0
   },
   "rrodrigo": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "MelonSoda": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
