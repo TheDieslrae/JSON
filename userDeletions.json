@@ -11,22 +11,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "bbllyy": {
-    "deletion_count": 8,
-    "nsfw_deletion_count": 0
-  },
-  "gesake13": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "NaCl": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "fad2": {
-    "deletion_count": 5,
-    "nsfw_deletion_count": 0
-  },
   "phil": {
     "deletion_count": 2,
     "nsfw_deletion_count": 1
@@ -51,8 +35,16 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
+  "fad2": {
+    "deletion_count": 4,
+    "nsfw_deletion_count": 0
+  },
   "yangfafaf": {
     "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "bbllyy": {
+    "deletion_count": 6,
     "nsfw_deletion_count": 0
   },
   "Cathod3": {
@@ -188,6 +180,10 @@
     "nsfw_deletion_count": 0
   },
   "rrodrigo": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "gesake13": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
