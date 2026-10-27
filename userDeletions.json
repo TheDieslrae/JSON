@@ -15,22 +15,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "phil": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 1
-  },
-  "horsecode": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "DrFJGentle": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "ccrichard": {
-    "deletion_count": 7,
-    "nsfw_deletion_count": 0
-  },
   "undadog4eva": {
     "deletion_count": 5,
     "nsfw_deletion_count": 0
@@ -51,6 +35,10 @@
     "deletion_count": 6,
     "nsfw_deletion_count": 0
   },
+  "ccrichard": {
+    "deletion_count": 6,
+    "nsfw_deletion_count": 0
+  },
   "Cathod3": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -60,6 +48,10 @@
     "nsfw_deletion_count": 0
   },
   "bubblebobble": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "DrFJGentle": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
@@ -170,6 +162,10 @@
   "gx240": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
+  },
+  "phil": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 1
   },
   "zero0707": {
     "deletion_count": 1,
