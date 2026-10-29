@@ -178,5 +178,9 @@
   "XXXXX": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
+  },
+  "wateryconstruct": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
   }
 }
