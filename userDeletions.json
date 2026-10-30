@@ -15,6 +15,10 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
+  "hcaa": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
   "zero0707": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -60,10 +64,18 @@
     "nsfw_deletion_count": 0
   },
   "NaCl": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "l4penumbrA": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "xxshapeless": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "holden_macaque": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
