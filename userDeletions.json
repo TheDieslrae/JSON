@@ -74,5 +74,9 @@
   "holden_macaque": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
+  },
+  "thegame": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
   }
 }
