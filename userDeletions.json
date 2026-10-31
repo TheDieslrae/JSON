@@ -15,6 +15,10 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
+  "fad2": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
   "jiyi98787": {
     "deletion_count": 1,
     "nsfw_deletion_count": 1
@@ -103,10 +107,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "fad2": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
   "Sorayuki": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
@@ -116,7 +116,7 @@
     "nsfw_deletion_count": 0
   },
   "Zabal": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "baba2": {
