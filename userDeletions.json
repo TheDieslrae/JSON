@@ -48,7 +48,7 @@
     "nsfw_deletion_count": 0
   },
   "NichtSenza": {
-    "deletion_count": 4,
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "fad2": {
@@ -100,7 +100,7 @@
     "nsfw_deletion_count": 0
   },
   "bbllyy": {
-    "deletion_count": 2,
+    "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
   "Knightlord641": {
@@ -168,6 +168,18 @@
     "nsfw_deletion_count": 0
   },
   "hellstorm": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "aleph": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "positiveee": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "scionboy": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
