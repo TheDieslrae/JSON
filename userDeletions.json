@@ -1,10 +1,10 @@
 {
   "swamp": {
-    "deletion_count": 2,
+    "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
   "ccrichard": {
-    "deletion_count": 5,
+    "deletion_count": 9,
     "nsfw_deletion_count": 0
   },
   "xxshapeless": {
@@ -68,7 +68,7 @@
     "nsfw_deletion_count": 0
   },
   "Spline": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "NaCl": {
@@ -88,7 +88,7 @@
     "nsfw_deletion_count": 1
   },
   "yuna": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "j_0": {
@@ -104,7 +104,7 @@
     "nsfw_deletion_count": 0
   },
   "Knightlord641": {
-    "deletion_count": 4,
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "beastrouen": {
@@ -132,10 +132,42 @@
     "nsfw_deletion_count": 0
   },
   "teapot": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "hadesky": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "rrodrigo": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "feng9148": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "rtma1": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "acexxxxx": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "derestor": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "euph0ricbt": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Willy": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "hellstorm": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
