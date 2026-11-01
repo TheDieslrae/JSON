@@ -108,7 +108,7 @@
     "nsfw_deletion_count": 0
   },
   "bbllyy": {
-    "deletion_count": 3,
+    "deletion_count": 4,
     "nsfw_deletion_count": 0
   },
   "Knightlord641": {
@@ -188,6 +188,10 @@
     "nsfw_deletion_count": 0
   },
   "scionboy": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "hyiming": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
