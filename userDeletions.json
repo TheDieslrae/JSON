@@ -20,7 +20,7 @@
     "nsfw_deletion_count": 0
   },
   "aleph": {
-    "deletion_count": 2,
+    "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
   "abstroos": {
@@ -28,7 +28,7 @@
     "nsfw_deletion_count": 0
   },
   "oOo": {
-    "deletion_count": 3,
+    "deletion_count": 7,
     "nsfw_deletion_count": 0
   },
   "oxyuranus": {
@@ -292,7 +292,7 @@
     "nsfw_deletion_count": 0
   },
   "uncover4197": {
-    "deletion_count": 2,
+    "deletion_count": 4,
     "nsfw_deletion_count": 0
   },
   "dmemedo": {
@@ -300,6 +300,14 @@
     "nsfw_deletion_count": 0
   },
   "DynamiteDuxer": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "fridge": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "TheFranswer": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
