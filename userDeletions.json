@@ -232,7 +232,7 @@
     "nsfw_deletion_count": 0
   },
   "nd4467": {
-    "deletion_count": 2,
+    "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
   "xiaoxi": {
@@ -312,6 +312,10 @@
     "nsfw_deletion_count": 0
   },
   "Catania08": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "tarcin": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
