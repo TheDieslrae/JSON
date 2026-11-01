@@ -28,7 +28,7 @@
     "nsfw_deletion_count": 0
   },
   "oOo": {
-    "deletion_count": 12,
+    "deletion_count": 13,
     "nsfw_deletion_count": 0
   },
   "oxyuranus": {
@@ -116,11 +116,11 @@
     "nsfw_deletion_count": 2
   },
   "yuna": {
-    "deletion_count": 4,
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "j_0": {
-    "deletion_count": 4,
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "TabStability": {
@@ -172,7 +172,7 @@
     "nsfw_deletion_count": 0
   },
   "rtma1": {
-    "deletion_count": 3,
+    "deletion_count": 4,
     "nsfw_deletion_count": 0
   },
   "acexxxxx": {
@@ -192,7 +192,7 @@
     "nsfw_deletion_count": 0
   },
   "hellstorm": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "positiveee": {
@@ -208,7 +208,7 @@
     "nsfw_deletion_count": 0
   },
   "Diablo666": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "marsblaster": {
@@ -248,7 +248,7 @@
     "nsfw_deletion_count": 1
   },
   "thegame": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 1
   },
   "rethalem": {
@@ -316,6 +316,22 @@
     "nsfw_deletion_count": 0
   },
   "tarcin": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "GPerson": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Ondrashek06": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "atoz": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "djdingo": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
