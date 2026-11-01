@@ -73,7 +73,7 @@
   },
   "fujiyousei": {
     "deletion_count": 2,
-    "nsfw_deletion_count": 0
+    "nsfw_deletion_count": 1
   },
   "NichtSenza": {
     "deletion_count": 5,
@@ -104,8 +104,8 @@
     "nsfw_deletion_count": 1
   },
   "dongbing": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 1
+    "deletion_count": 3,
+    "nsfw_deletion_count": 2
   },
   "yuna": {
     "deletion_count": 4,
@@ -256,7 +256,7 @@
     "nsfw_deletion_count": 0
   },
   "VidiM": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "zoahxgnai": {
@@ -289,6 +289,14 @@
   },
   "uncover4197": {
     "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "dmemedo": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "DynamiteDuxer": {
+    "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
 }
