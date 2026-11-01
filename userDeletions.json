@@ -11,6 +11,22 @@
     "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
+  "AngelLei": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "bubblebobble": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "aleph": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "abstroos": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
   "swamp": {
     "deletion_count": 3,
     "nsfw_deletion_count": 0
@@ -86,10 +102,6 @@
   "Shortlist5": {
     "deletion_count": 0,
     "nsfw_deletion_count": 1
-  },
-  "abstroos": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
   },
   "dongbing": {
     "deletion_count": 2,
@@ -176,10 +188,6 @@
     "nsfw_deletion_count": 0
   },
   "hellstorm": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "aleph": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
