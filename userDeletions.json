@@ -8,7 +8,7 @@
     "nsfw_deletion_count": 0
   },
   "irc678": {
-    "deletion_count": 5,
+    "deletion_count": 6,
     "nsfw_deletion_count": 0
   },
   "AngelLei": {
@@ -68,11 +68,11 @@
     "nsfw_deletion_count": 0
   },
   "Sacagawea": {
-    "deletion_count": 4,
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "Genesis": {
-    "deletion_count": 0,
+    "deletion_count": 1,
     "nsfw_deletion_count": 1
   },
   "yangfafaf": {
@@ -104,7 +104,7 @@
     "nsfw_deletion_count": 0
   },
   "NaCl": {
-    "deletion_count": 6,
+    "deletion_count": 7,
     "nsfw_deletion_count": 0
   },
   "Shortlist5": {
@@ -120,7 +120,7 @@
     "nsfw_deletion_count": 0
   },
   "j_0": {
-    "deletion_count": 5,
+    "deletion_count": 6,
     "nsfw_deletion_count": 0
   },
   "TabStability": {
@@ -208,7 +208,7 @@
     "nsfw_deletion_count": 0
   },
   "Diablo666": {
-    "deletion_count": 2,
+    "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
   "marsblaster": {
@@ -272,7 +272,7 @@
     "nsfw_deletion_count": 0
   },
   "cicero": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "czqdavid": {
@@ -284,7 +284,7 @@
     "nsfw_deletion_count": 1
   },
   "teide": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "Brenzo": {
@@ -344,6 +344,34 @@
     "nsfw_deletion_count": 0
   },
   "Knightreaper": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "phil": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "dots27": {
+    "deletion_count": 0,
+    "nsfw_deletion_count": 1
+  },
+  "m0rphl1ng": {
+    "deletion_count": 0,
+    "nsfw_deletion_count": 1
+  },
+  "Zabal": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "RitsukoP": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Eteris": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Poby": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
