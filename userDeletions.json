@@ -60,7 +60,7 @@
     "nsfw_deletion_count": 0
   },
   "zeez": {
-    "deletion_count": 9,
+    "deletion_count": 10,
     "nsfw_deletion_count": 0
   },
   "amaroqia": {
@@ -116,7 +116,7 @@
     "nsfw_deletion_count": 0
   },
   "NaCl": {
-    "deletion_count": 8,
+    "deletion_count": 9,
     "nsfw_deletion_count": 0
   },
   "Shortlist5": {
@@ -385,6 +385,14 @@
   },
   "howevercompassionate": {
     "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "samfisher": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Parmesan6940": {
+    "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
 }
