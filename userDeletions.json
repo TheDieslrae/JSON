@@ -88,7 +88,7 @@
     "nsfw_deletion_count": 1
   },
   "yangfafaf": {
-    "deletion_count": 8,
+    "deletion_count": 9,
     "nsfw_deletion_count": 0
   },
   "fujiyousei": {
@@ -148,7 +148,7 @@
     "nsfw_deletion_count": 0
   },
   "beastrouen": {
-    "deletion_count": 4,
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "fajcyk": {
@@ -408,6 +408,10 @@
     "nsfw_deletion_count": 0
   },
   "fr0stbyt": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "geg": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
