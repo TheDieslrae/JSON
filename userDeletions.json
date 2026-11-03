@@ -394,5 +394,17 @@
   "Parmesan6940": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
+  },
+  "horsecode": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "shuntwell": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "DanCousins": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
   }
 }
