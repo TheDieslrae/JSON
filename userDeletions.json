@@ -20,7 +20,7 @@
     "nsfw_deletion_count": 0
   },
   "aleph": {
-    "deletion_count": 3,
+    "deletion_count": 4,
     "nsfw_deletion_count": 0
   },
   "abstroos": {
@@ -28,7 +28,7 @@
     "nsfw_deletion_count": 0
   },
   "oOo": {
-    "deletion_count": 13,
+    "deletion_count": 15,
     "nsfw_deletion_count": 0
   },
   "oxyuranus": {
@@ -100,7 +100,7 @@
     "nsfw_deletion_count": 0
   },
   "fad2": {
-    "deletion_count": 9,
+    "deletion_count": 10,
     "nsfw_deletion_count": 0
   },
   "saveondisc": {
@@ -184,7 +184,7 @@
     "nsfw_deletion_count": 0
   },
   "rtma1": {
-    "deletion_count": 4,
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "acexxxxx": {
@@ -244,7 +244,7 @@
     "nsfw_deletion_count": 0
   },
   "xiaoxi": {
-    "deletion_count": 13,
+    "deletion_count": 14,
     "nsfw_deletion_count": 0
   },
   "floppasaurus": {
@@ -276,7 +276,7 @@
     "nsfw_deletion_count": 0
   },
   "crystal123": {
-    "deletion_count": 2,
+    "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
   "cicero": {
@@ -300,7 +300,7 @@
     "nsfw_deletion_count": 0
   },
   "uncover4197": {
-    "deletion_count": 5,
+    "deletion_count": 6,
     "nsfw_deletion_count": 0
   },
   "dmemedo": {
@@ -369,14 +369,14 @@
   },
   "Zabal": {
     "deletion_count": 1,
-    "nsfw_deletion_count": 0
+    "nsfw_deletion_count": 1
   },
   "RitsukoP": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "Eteris": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "Poby": {
@@ -430,5 +430,13 @@
   "thrik": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
+  },
+  "sonkel": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "gasper1319": {
+    "deletion_count": 0,
+    "nsfw_deletion_count": 1
   }
 }
