@@ -8,7 +8,7 @@
     "nsfw_deletion_count": 0
   },
   "irc678": {
-    "deletion_count": 6,
+    "deletion_count": 7,
     "nsfw_deletion_count": 0
   },
   "AngelLei": {
@@ -20,7 +20,7 @@
     "nsfw_deletion_count": 0
   },
   "aleph": {
-    "deletion_count": 4,
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "abstroos": {
@@ -36,11 +36,11 @@
     "nsfw_deletion_count": 0
   },
   "ipdr01": {
-    "deletion_count": 3,
+    "deletion_count": 4,
     "nsfw_deletion_count": 0
   },
   "Diablo666": {
-    "deletion_count": 6,
+    "deletion_count": 7,
     "nsfw_deletion_count": 0
   },
   "dacollector": {
@@ -49,6 +49,14 @@
   },
   "Sacagawea": {
     "deletion_count": 7,
+    "nsfw_deletion_count": 0
+  },
+  "positiveee": {
+    "deletion_count": 3,
+    "nsfw_deletion_count": 0
+  },
+  "fad2": {
+    "deletion_count": 11,
     "nsfw_deletion_count": 0
   },
   "swamp": {
@@ -97,10 +105,6 @@
   },
   "NichtSenza": {
     "deletion_count": 5,
-    "nsfw_deletion_count": 0
-  },
-  "fad2": {
-    "deletion_count": 10,
     "nsfw_deletion_count": 0
   },
   "saveondisc": {
@@ -205,10 +209,6 @@
   },
   "hellstorm": {
     "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
-  "positiveee": {
-    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "scionboy": {
