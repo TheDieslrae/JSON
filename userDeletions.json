@@ -37,7 +37,7 @@
   },
   "ipdr01": {
     "deletion_count": 5,
-    "nsfw_deletion_count": 0
+    "nsfw_deletion_count": 1
   },
   "Diablo666": {
     "deletion_count": 8,
@@ -52,7 +52,7 @@
     "nsfw_deletion_count": 0
   },
   "positiveee": {
-    "deletion_count": 3,
+    "deletion_count": 4,
     "nsfw_deletion_count": 0
   },
   "fad2": {
@@ -140,7 +140,7 @@
     "nsfw_deletion_count": 0
   },
   "j_0": {
-    "deletion_count": 7,
+    "deletion_count": 8,
     "nsfw_deletion_count": 0
   },
   "TabStability": {
@@ -212,7 +212,7 @@
     "nsfw_deletion_count": 0
   },
   "hellstorm": {
-    "deletion_count": 4,
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "scionboy": {
@@ -260,7 +260,7 @@
     "nsfw_deletion_count": 1
   },
   "thegame": {
-    "deletion_count": 2,
+    "deletion_count": 3,
     "nsfw_deletion_count": 2
   },
   "rethalem": {
@@ -496,6 +496,14 @@
     "nsfw_deletion_count": 0
   },
   "bk1": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "peppersnake": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Martinch": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
