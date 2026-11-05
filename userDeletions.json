@@ -28,7 +28,7 @@
     "nsfw_deletion_count": 0
   },
   "oOo": {
-    "deletion_count": 15,
+    "deletion_count": 16,
     "nsfw_deletion_count": 0
   },
   "oxyuranus": {
@@ -492,6 +492,10 @@
     "nsfw_deletion_count": 0
   },
   "Strickie": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "bk1": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
