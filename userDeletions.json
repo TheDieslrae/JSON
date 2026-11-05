@@ -300,7 +300,7 @@
     "nsfw_deletion_count": 0
   },
   "uncover4197": {
-    "deletion_count": 6,
+    "deletion_count": 7,
     "nsfw_deletion_count": 0
   },
   "dmemedo": {
@@ -440,6 +440,14 @@
     "nsfw_deletion_count": 1
   },
   "wuyaos": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "garuda": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Mmcx125": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
