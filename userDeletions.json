@@ -88,7 +88,7 @@
     "nsfw_deletion_count": 0
   },
   "zeez": {
-    "deletion_count": 14,
+    "deletion_count": 15,
     "nsfw_deletion_count": 0
   },
   "amaroqia": {
@@ -144,7 +144,7 @@
     "nsfw_deletion_count": 2
   },
   "yuna": {
-    "deletion_count": 6,
+    "deletion_count": 7,
     "nsfw_deletion_count": 0
   },
   "j_0": {
@@ -476,7 +476,7 @@
     "nsfw_deletion_count": 0
   },
   "Psicosis": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 1
   },
   "waiter7": {
@@ -512,6 +512,10 @@
     "nsfw_deletion_count": 0
   },
   "KangarooBobby": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "flower_power": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
