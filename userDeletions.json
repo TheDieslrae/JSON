@@ -8,7 +8,7 @@
     "nsfw_deletion_count": 0
   },
   "irc678": {
-    "deletion_count": 8,
+    "deletion_count": 9,
     "nsfw_deletion_count": 1
   },
   "AngelLei": {
@@ -71,6 +71,10 @@
     "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
+  "NaCl": {
+    "deletion_count": 14,
+    "nsfw_deletion_count": 0
+  },
   "swamp": {
     "deletion_count": 3,
     "nsfw_deletion_count": 1
@@ -128,11 +132,7 @@
     "nsfw_deletion_count": 0
   },
   "Spline": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "NaCl": {
-    "deletion_count": 12,
+    "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
   "Shortlist5": {
@@ -144,7 +144,7 @@
     "nsfw_deletion_count": 2
   },
   "yuna": {
-    "deletion_count": 5,
+    "deletion_count": 6,
     "nsfw_deletion_count": 0
   },
   "j_0": {
@@ -477,7 +477,7 @@
   },
   "Psicosis": {
     "deletion_count": 1,
-    "nsfw_deletion_count": 0
+    "nsfw_deletion_count": 1
   },
   "waiter7": {
     "deletion_count": 2,
@@ -508,6 +508,10 @@
     "nsfw_deletion_count": 0
   },
   "Martinch": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "KangarooBobby": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
