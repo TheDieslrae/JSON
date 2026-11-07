@@ -75,22 +75,6 @@
     "deletion_count": 14,
     "nsfw_deletion_count": 0
   },
-  "ccrichard": {
-    "deletion_count": 15,
-    "nsfw_deletion_count": 0
-  },
-  "xxshapeless": {
-    "deletion_count": 9,
-    "nsfw_deletion_count": 0
-  },
-  "zeez": {
-    "deletion_count": 16,
-    "nsfw_deletion_count": 0
-  },
-  "amaroqia": {
-    "deletion_count": 9,
-    "nsfw_deletion_count": 0
-  },
   "mz123": {
     "deletion_count": 5,
     "nsfw_deletion_count": 0
@@ -101,6 +85,10 @@
   },
   "towelie4365": {
     "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "amaroqia": {
+    "deletion_count": 8,
     "nsfw_deletion_count": 0
   },
   "Genesis": {
@@ -114,6 +102,10 @@
   "fujiyousei": {
     "deletion_count": 3,
     "nsfw_deletion_count": 1
+  },
+  "zeez": {
+    "deletion_count": 15,
+    "nsfw_deletion_count": 0
   },
   "NichtSenza": {
     "deletion_count": 5,
@@ -191,6 +183,10 @@
     "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
+  "ccrichard": {
+    "deletion_count": 11,
+    "nsfw_deletion_count": 0
+  },
   "rrodrigo": {
     "deletion_count": 4,
     "nsfw_deletion_count": 0
@@ -257,6 +253,10 @@
   },
   "xiaoxi": {
     "deletion_count": 14,
+    "nsfw_deletion_count": 0
+  },
+  "xxshapeless": {
+    "deletion_count": 8,
     "nsfw_deletion_count": 0
   },
   "floppasaurus": {
