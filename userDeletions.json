@@ -20,7 +20,7 @@
     "nsfw_deletion_count": 0
   },
   "aleph": {
-    "deletion_count": 5,
+    "deletion_count": 4,
     "nsfw_deletion_count": 0
   },
   "abstroos": {
@@ -52,7 +52,7 @@
     "nsfw_deletion_count": 0
   },
   "positiveee": {
-    "deletion_count": 4,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "fad2": {
@@ -83,18 +83,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "NichtSenza": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "bbllyy": {
-    "deletion_count": 4,
-    "nsfw_deletion_count": 1
-  },
-  "scionboy": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
   "baba2": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
@@ -102,6 +90,10 @@
   "hyiming": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
+  },
+  "bbllyy": {
+    "deletion_count": 3,
+    "nsfw_deletion_count": 1
   },
   "marsblaster": {
     "deletion_count": 1,
