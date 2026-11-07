@@ -1,16 +1,4 @@
 {
-  "smoke1999": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "qdo0obp": {
-    "deletion_count": 4,
-    "nsfw_deletion_count": 0
-  },
-  "irc678": {
-    "deletion_count": 7,
-    "nsfw_deletion_count": 1
-  },
   "AngelLei": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -54,6 +42,10 @@
   "positiveee": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
+  },
+  "irc678": {
+    "deletion_count": 6,
+    "nsfw_deletion_count": 1
   },
   "fad2": {
     "deletion_count": 8,
@@ -352,6 +344,10 @@
     "nsfw_deletion_count": 0
   },
   "geg": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "qdo0obp": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
