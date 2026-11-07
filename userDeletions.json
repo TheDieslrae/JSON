@@ -75,6 +75,14 @@
     "deletion_count": 14,
     "nsfw_deletion_count": 0
   },
+  "zeez": {
+    "deletion_count": 15,
+    "nsfw_deletion_count": 0
+  },
+  "Aspirants_dream": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
   "saveondisc": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
@@ -221,10 +229,6 @@
   },
   "exec": {
     "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "zeez": {
-    "deletion_count": 14,
     "nsfw_deletion_count": 0
   },
   "Apollo69": {
