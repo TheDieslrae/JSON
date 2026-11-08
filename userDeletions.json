@@ -28,7 +28,7 @@
     "nsfw_deletion_count": 1
   },
   "Diablo666": {
-    "deletion_count": 9,
+    "deletion_count": 8,
     "nsfw_deletion_count": 0
   },
   "dacollector": {
@@ -44,7 +44,7 @@
     "nsfw_deletion_count": 0
   },
   "irc678": {
-    "deletion_count": 6,
+    "deletion_count": 4,
     "nsfw_deletion_count": 1
   },
   "fad2": {
@@ -68,7 +68,7 @@
     "nsfw_deletion_count": 0
   },
   "zeez": {
-    "deletion_count": 17,
+    "deletion_count": 13,
     "nsfw_deletion_count": 0
   },
   "Aspirants_dream": {
@@ -83,70 +83,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "marsblaster": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "yangfafaf": {
-    "deletion_count": 5,
-    "nsfw_deletion_count": 0
-  },
-  "ifthesound": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "Knightlord641": {
-    "deletion_count": 5,
-    "nsfw_deletion_count": 0
-  },
-  "rtma1": {
-    "deletion_count": 4,
-    "nsfw_deletion_count": 0
-  },
-  "exec": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "j_0": {
-    "deletion_count": 6,
-    "nsfw_deletion_count": 0
-  },
-  "rrodrigo": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
-  "Apollo69": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "beastrouen": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "crayfish": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "nd4467": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
-  "TabStability": {
-    "deletion_count": 4,
-    "nsfw_deletion_count": 0
-  },
-  "ccrichard": {
-    "deletion_count": 6,
-    "nsfw_deletion_count": 0
-  },
-  "xiaoxi": {
-    "deletion_count": 14,
-    "nsfw_deletion_count": 0
-  },
-  "xxshapeless": {
-    "deletion_count": 8,
-    "nsfw_deletion_count": 0
-  },
   "floppasaurus": {
     "deletion_count": 0,
     "nsfw_deletion_count": 1
@@ -154,6 +90,14 @@
   "drlivog": {
     "deletion_count": 0,
     "nsfw_deletion_count": 1
+  },
+  "xiaoxi": {
+    "deletion_count": 5,
+    "nsfw_deletion_count": 0
+  },
+  "xxshapeless": {
+    "deletion_count": 7,
+    "nsfw_deletion_count": 0
   },
   "thegame": {
     "deletion_count": 3,
@@ -171,7 +115,15 @@
     "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
+  "yangfafaf": {
+    "deletion_count": 4,
+    "nsfw_deletion_count": 0
+  },
   "VidiM": {
+    "deletion_count": 4,
+    "nsfw_deletion_count": 0
+  },
+  "Knightlord641": {
     "deletion_count": 4,
     "nsfw_deletion_count": 0
   },
@@ -184,6 +136,10 @@
     "nsfw_deletion_count": 0
   },
   "cicero": {
+    "deletion_count": 3,
+    "nsfw_deletion_count": 0
+  },
+  "TabStability": {
     "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
@@ -223,6 +179,10 @@
     "deletion_count": 2,
     "nsfw_deletion_count": 1
   },
+  "nd4467": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
   "fridge": {
     "deletion_count": 4,
     "nsfw_deletion_count": 0
@@ -239,6 +199,10 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
+  "rtma1": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
   "GPerson": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
@@ -249,6 +213,10 @@
   },
   "Ondrashek06": {
     "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "j_0": {
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "atoz": {
@@ -339,6 +307,10 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
+  "beastrouen": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
   "geg": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -423,6 +395,10 @@
     "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
+  "rrodrigo": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
   "xenolith": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -444,6 +420,14 @@
     "nsfw_deletion_count": 0
   },
   "Strickie": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "ifthesound": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Apollo69": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
