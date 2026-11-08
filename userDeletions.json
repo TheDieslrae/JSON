@@ -1,6 +1,6 @@
 {
   "oOo": {
-    "deletion_count": 15,
+    "deletion_count": 20,
     "nsfw_deletion_count": 0
   },
   "oxyuranus": {
@@ -104,7 +104,7 @@
     "nsfw_deletion_count": 0
   },
   "cicero": {
-    "deletion_count": 3,
+    "deletion_count": 4,
     "nsfw_deletion_count": 0
   },
   "TabStability": {
@@ -156,7 +156,7 @@
     "nsfw_deletion_count": 0
   },
   "thegame": {
-    "deletion_count": 3,
+    "deletion_count": 4,
     "nsfw_deletion_count": 1
   },
   "fridge": {
@@ -268,7 +268,7 @@
     "nsfw_deletion_count": 0
   },
   "horsecode": {
-    "deletion_count": 2,
+    "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
   "shuntwell": {
@@ -408,7 +408,7 @@
     "nsfw_deletion_count": 0
   },
   "bk1": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "peppersnake": {
@@ -420,7 +420,7 @@
     "nsfw_deletion_count": 0
   },
   "gesake13": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "Spline": {
@@ -436,6 +436,18 @@
     "nsfw_deletion_count": 0
   },
   "baba2": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Sorayuki": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "maken": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "CrkMStanz": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
