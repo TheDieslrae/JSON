@@ -56,7 +56,7 @@
     "nsfw_deletion_count": 0
   },
   "zeez": {
-    "deletion_count": 12,
+    "deletion_count": 13,
     "nsfw_deletion_count": 0
   },
   "Aspirants_dream": {
@@ -180,7 +180,7 @@
     "nsfw_deletion_count": 0
   },
   "GPerson": {
-    "deletion_count": 2,
+    "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
   "hellstorm": {
@@ -192,7 +192,7 @@
     "nsfw_deletion_count": 0
   },
   "j_0": {
-    "deletion_count": 5,
+    "deletion_count": 6,
     "nsfw_deletion_count": 0
   },
   "atoz": {
@@ -408,7 +408,7 @@
     "nsfw_deletion_count": 0
   },
   "bk1": {
-    "deletion_count": 2,
+    "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
   "peppersnake": {
@@ -432,7 +432,7 @@
     "nsfw_deletion_count": 0
   },
   "flower_power": {
-    "deletion_count": 2,
+    "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
   "baba2": {
@@ -448,6 +448,10 @@
     "nsfw_deletion_count": 0
   },
   "CrkMStanz": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "azstrait": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
