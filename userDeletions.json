@@ -1,8 +1,4 @@
 {
-  "oOo": {
-    "deletion_count": 19,
-    "nsfw_deletion_count": 0
-  },
   "oxyuranus": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -73,6 +69,10 @@
   },
   "bubblebobble": {
     "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "oOo": {
+    "deletion_count": 18,
     "nsfw_deletion_count": 0
   },
   "hellstorm": {
