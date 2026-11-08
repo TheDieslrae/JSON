@@ -68,27 +68,11 @@
     "nsfw_deletion_count": 0
   },
   "oOo": {
-    "deletion_count": 14,
+    "deletion_count": 9,
     "nsfw_deletion_count": 0
   },
   "hellstorm": {
     "deletion_count": 6,
-    "nsfw_deletion_count": 0
-  },
-  "TheFranswer": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "uncover4197": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
-  "fridge": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "Catania08": {
-    "deletion_count": 7,
     "nsfw_deletion_count": 0
   },
   "tarcin": {
@@ -137,6 +121,10 @@
   },
   "iSkylla": {
     "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Catania08": {
+    "deletion_count": 6,
     "nsfw_deletion_count": 0
   },
   "DynamiteDuxer": {
@@ -271,6 +259,10 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
+  "uncover4197": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
   "sonkel": {
     "deletion_count": 3,
     "nsfw_deletion_count": 0
@@ -401,6 +393,10 @@
   },
   "flower_power": {
     "deletion_count": 3,
+    "nsfw_deletion_count": 0
+  },
+  "fridge": {
+    "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "swamp": {
