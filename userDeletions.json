@@ -79,26 +79,6 @@
     "deletion_count": 6,
     "nsfw_deletion_count": 0
   },
-  "VidiM": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
-  "dmemedo": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "DynamiteDuxer": {
-    "deletion_count": 10,
-    "nsfw_deletion_count": 0
-  },
-  "dongbing": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 1
-  },
-  "fujiyousei": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 1
-  },
   "nd4467": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
@@ -163,6 +143,10 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
+  "DynamiteDuxer": {
+    "deletion_count": 9,
+    "nsfw_deletion_count": 0
+  },
   "Knightreaper": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -208,6 +192,10 @@
     "nsfw_deletion_count": 0
   },
   "mz123": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "fujiyousei": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
@@ -266,6 +254,10 @@
   "bbllyy": {
     "deletion_count": 2,
     "nsfw_deletion_count": 1
+  },
+  "VidiM": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
   },
   "HumanoidIN": {
     "deletion_count": 1,
@@ -326,6 +318,10 @@
   "thane": {
     "deletion_count": 0,
     "nsfw_deletion_count": 1
+  },
+  "dongbing": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
   },
   "villagej": {
     "deletion_count": 1,
