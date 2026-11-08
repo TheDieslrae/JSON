@@ -68,7 +68,7 @@
     "nsfw_deletion_count": 0
   },
   "zeez": {
-    "deletion_count": 13,
+    "deletion_count": 12,
     "nsfw_deletion_count": 0
   },
   "Aspirants_dream": {
@@ -81,22 +81,6 @@
   },
   "bowza34": {
     "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "floppasaurus": {
-    "deletion_count": 0,
-    "nsfw_deletion_count": 1
-  },
-  "drlivog": {
-    "deletion_count": 0,
-    "nsfw_deletion_count": 1
-  },
-  "xiaoxi": {
-    "deletion_count": 5,
-    "nsfw_deletion_count": 0
-  },
-  "xxshapeless": {
-    "deletion_count": 7,
     "nsfw_deletion_count": 0
   },
   "thegame": {
@@ -141,6 +125,10 @@
   },
   "TabStability": {
     "deletion_count": 3,
+    "nsfw_deletion_count": 0
+  },
+  "xiaoxi": {
+    "deletion_count": 4,
     "nsfw_deletion_count": 0
   },
   "yuna": {
