@@ -4,7 +4,7 @@
     "nsfw_deletion_count": 1
   },
   "Diablo666": {
-    "deletion_count": 8,
+    "deletion_count": 7,
     "nsfw_deletion_count": 0
   },
   "dacollector": {
@@ -24,7 +24,7 @@
     "nsfw_deletion_count": 1
   },
   "fad2": {
-    "deletion_count": 7,
+    "deletion_count": 8,
     "nsfw_deletion_count": 0
   },
   "aleph": {
@@ -68,44 +68,12 @@
     "nsfw_deletion_count": 0
   },
   "oOo": {
-    "deletion_count": 9,
+    "deletion_count": 8,
     "nsfw_deletion_count": 0
   },
   "hellstorm": {
-    "deletion_count": 6,
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
-  },
-  "yuna": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
-  "rtma1": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "GPerson": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
-  "Ondrashek06": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "j_0": {
-    "deletion_count": 7,
-    "nsfw_deletion_count": 0
-  },
-  "atoz": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "djdingo": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "thegame": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 1
   },
   "Quitex": {
     "deletion_count": 1,
@@ -127,12 +95,20 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
+  "atoz": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
   "phil": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "cicero": {
     "deletion_count": 3,
+    "nsfw_deletion_count": 0
+  },
+  "j_0": {
+    "deletion_count": 6,
     "nsfw_deletion_count": 0
   },
   "dots27": {
@@ -267,6 +243,10 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
+  "rtma1": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
   "gasper1319": {
     "deletion_count": 1,
     "nsfw_deletion_count": 1
@@ -299,6 +279,10 @@
     "deletion_count": 0,
     "nsfw_deletion_count": 1
   },
+  "thegame": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 1
+  },
   "dongbing": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -307,11 +291,19 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
+  "djdingo": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
   "sqy2407": {
     "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "Dagothur": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "GPerson": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
@@ -376,7 +368,11 @@
     "nsfw_deletion_count": 0
   },
   "Spline": {
-    "deletion_count": 1,
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "yuna": {
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "KangarooBobby": {
