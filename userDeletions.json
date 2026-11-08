@@ -48,7 +48,7 @@
     "nsfw_deletion_count": 0
   },
   "Brenzo": {
-    "deletion_count": 2,
+    "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "NaCl": {
@@ -79,28 +79,8 @@
     "deletion_count": 6,
     "nsfw_deletion_count": 0
   },
-  "LordVorlock": {
-    "deletion_count": 0,
-    "nsfw_deletion_count": 1
-  },
-  "yuna": {
-    "deletion_count": 4,
-    "nsfw_deletion_count": 0
-  },
-  "yangfafaf": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "fujiyousei": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 1
-  },
-  "teide": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
   "uncover4197": {
-    "deletion_count": 7,
+    "deletion_count": 6,
     "nsfw_deletion_count": 0
   },
   "VidiM": {
@@ -117,6 +97,10 @@
   },
   "dongbing": {
     "deletion_count": 2,
+    "nsfw_deletion_count": 1
+  },
+  "fujiyousei": {
+    "deletion_count": 1,
     "nsfw_deletion_count": 1
   },
   "nd4467": {
@@ -141,6 +125,10 @@
   },
   "tarcin": {
     "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "yuna": {
+    "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
   "rtma1": {
@@ -203,6 +191,10 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 1
   },
+  "teide": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
   "RitsukoP": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
@@ -248,6 +240,10 @@
     "nsfw_deletion_count": 0
   },
   "fr0stbyt": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "yangfafaf": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
