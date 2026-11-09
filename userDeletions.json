@@ -44,7 +44,7 @@
     "nsfw_deletion_count": 0
   },
   "NaCl": {
-    "deletion_count": 7,
+    "deletion_count": 6,
     "nsfw_deletion_count": 0
   },
   "zeez": {
@@ -77,10 +77,6 @@
   },
   "kriskooo": {
     "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "cicero": {
-    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "fajcyk": {
@@ -352,6 +348,10 @@
     "nsfw_deletion_count": 0
   },
   "baba2": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "cicero": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
