@@ -1,8 +1,4 @@
 {
-  "ipdr01": {
-    "deletion_count": 5,
-    "nsfw_deletion_count": 1
-  },
   "Diablo666": {
     "deletion_count": 6,
     "nsfw_deletion_count": 0
@@ -10,6 +6,10 @@
   "dacollector": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
+  },
+  "ipdr01": {
+    "deletion_count": 4,
+    "nsfw_deletion_count": 1
   },
   "Sacagawea": {
     "deletion_count": 5,
