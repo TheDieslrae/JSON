@@ -330,5 +330,9 @@
   "geg": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
+  },
+  "saveondisc": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
   }
 }
