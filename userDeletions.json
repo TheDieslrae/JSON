@@ -79,18 +79,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "yangfafaf": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "beastrouen": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
-  "geg": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
   "qdo0obp": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -345,6 +333,10 @@
   },
   "azstrait": {
     "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "beastrouen": {
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "Grondleburg": {
