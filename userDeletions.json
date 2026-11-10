@@ -4,7 +4,7 @@
     "nsfw_deletion_count": 1
   },
   "Sacagawea": {
-    "deletion_count": 5,
+    "deletion_count": 4,
     "nsfw_deletion_count": 0
   },
   "positiveee": {
@@ -16,7 +16,7 @@
     "nsfw_deletion_count": 1
   },
   "fad2": {
-    "deletion_count": 8,
+    "deletion_count": 7,
     "nsfw_deletion_count": 0
   },
   "aleph": {
@@ -76,10 +76,6 @@
     "nsfw_deletion_count": 0
   },
   "dacollector": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "euph0ricbt": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
@@ -336,6 +332,18 @@
     "nsfw_deletion_count": 0
   },
   "Grondleburg": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Poby": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "mz123": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "geg": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
