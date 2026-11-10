@@ -79,18 +79,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "bbllyy": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 1
-  },
-  "VidiM": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "HumanoidIN": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
   "SavageCore": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -216,6 +204,14 @@
     "nsfw_deletion_count": 0
   },
   "RitsukoP": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "bbllyy": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 1
+  },
+  "VidiM": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
