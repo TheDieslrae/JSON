@@ -1,6 +1,6 @@
 {
   "ipdr01": {
-    "deletion_count": 5,
+    "deletion_count": 4,
     "nsfw_deletion_count": 1
   },
   "positiveee": {
@@ -76,6 +76,10 @@
     "nsfw_deletion_count": 0
   },
   "dacollector": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "TaurohtaR": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
