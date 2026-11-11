@@ -1,11 +1,7 @@
 {
   "ipdr01": {
-    "deletion_count": 6,
+    "deletion_count": 5,
     "nsfw_deletion_count": 1
-  },
-  "Sacagawea": {
-    "deletion_count": 4,
-    "nsfw_deletion_count": 0
   },
   "positiveee": {
     "deletion_count": 2,
@@ -27,6 +23,10 @@
     "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
+  "Sacagawea": {
+    "deletion_count": 3,
+    "nsfw_deletion_count": 0
+  },
   "zoahxgnai": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -40,7 +40,7 @@
     "nsfw_deletion_count": 0
   },
   "NaCl": {
-    "deletion_count": 4,
+    "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
   "zeez": {
@@ -76,10 +76,6 @@
     "nsfw_deletion_count": 0
   },
   "dacollector": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "wuyaos": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
