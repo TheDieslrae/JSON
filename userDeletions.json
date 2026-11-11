@@ -124,7 +124,7 @@
     "nsfw_deletion_count": 0
   },
   "TabStability": {
-    "deletion_count": 2,
+    "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
   "hyiming": {
@@ -332,6 +332,14 @@
     "nsfw_deletion_count": 0
   },
   "saveondisc": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "juicyroot": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Sif": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
