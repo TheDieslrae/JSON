@@ -16,11 +16,11 @@
     "nsfw_deletion_count": 1
   },
   "fad2": {
-    "deletion_count": 7,
+    "deletion_count": 6,
     "nsfw_deletion_count": 0
   },
   "aleph": {
-    "deletion_count": 3,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "Diablo666": {
@@ -64,7 +64,7 @@
     "nsfw_deletion_count": 0
   },
   "oOo": {
-    "deletion_count": 8,
+    "deletion_count": 6,
     "nsfw_deletion_count": 0
   },
   "hellstorm": {
@@ -79,43 +79,15 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "uncover4197": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "sonkel": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
-  "xiaoxi": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "crystal123": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "Eteris": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "rtma1": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "Zabal": {
-    "deletion_count": 0,
-    "nsfw_deletion_count": 1
-  },
-  "gasper1319": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 1
-  },
   "wuyaos": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "garuda": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "uncover4197": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
@@ -140,6 +112,10 @@
     "nsfw_deletion_count": 1
   },
   "howevercompassionate": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "sonkel": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
@@ -276,6 +252,10 @@
     "nsfw_deletion_count": 0
   },
   "fridge": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "gasper1319": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
