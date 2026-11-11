@@ -24,7 +24,7 @@
     "nsfw_deletion_count": 0
   },
   "NaCl": {
-    "deletion_count": 3,
+    "deletion_count": 4,
     "nsfw_deletion_count": 0
   },
   "zeez": {
@@ -73,6 +73,10 @@
   },
   "syos": {
     "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "sqy2407": {
+    "deletion_count": 6,
     "nsfw_deletion_count": 0
   },
   "garuda": {
@@ -125,10 +129,6 @@
   },
   "djdingo": {
     "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "sqy2407": {
-    "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "Dagothur": {
