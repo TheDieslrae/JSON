@@ -36,7 +36,7 @@
     "nsfw_deletion_count": 0
   },
   "hellstorm": {
-    "deletion_count": 3,
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "kriskooo": {
@@ -49,7 +49,7 @@
   },
   "ipdr01": {
     "deletion_count": 2,
-    "nsfw_deletion_count": 1
+    "nsfw_deletion_count": 0
   },
   "TaurohtaR": {
     "deletion_count": 1,
@@ -61,26 +61,6 @@
   },
   "sqy2407": {
     "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "j_0": {
-    "deletion_count": 4,
-    "nsfw_deletion_count": 0
-  },
-  "thegame": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "positiveee": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "peppersnake": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "Martinch": {
-    "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "irc678": {
@@ -151,8 +131,16 @@
     "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
+  "j_0": {
+    "deletion_count": 3,
+    "nsfw_deletion_count": 0
+  },
   "bk1": {
     "deletion_count": 3,
+    "nsfw_deletion_count": 0
+  },
+  "thegame": {
+    "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "cicero": {
