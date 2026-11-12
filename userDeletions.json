@@ -80,7 +80,7 @@
     "nsfw_deletion_count": 0
   },
   "Psicosis": {
-    "deletion_count": 1,
+    "deletion_count": 2,
     "nsfw_deletion_count": 1
   },
   "KangarooBobby": {
@@ -208,6 +208,10 @@
     "nsfw_deletion_count": 0
   },
   "FugitiveFish": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "VidiM": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
