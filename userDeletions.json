@@ -1,8 +1,4 @@
 {
-  "Sacagawea": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
   "zoahxgnai": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -101,6 +97,10 @@
   },
   "FortuneSeller": {
     "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Sacagawea": {
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "thane": {
