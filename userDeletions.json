@@ -59,10 +59,6 @@
     "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
-  "irc678": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 1
-  },
   "gesake13": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
@@ -72,6 +68,10 @@
     "nsfw_deletion_count": 0
   },
   "yuna": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "irc678": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
