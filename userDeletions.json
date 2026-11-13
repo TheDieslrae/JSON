@@ -1,6 +1,6 @@
 {
   "zeez": {
-    "deletion_count": 7,
+    "deletion_count": 6,
     "nsfw_deletion_count": 0
   },
   "Aspirants_dream": {
@@ -55,18 +55,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "flower_power": {
-    "deletion_count": 4,
-    "nsfw_deletion_count": 0
-  },
-  "yuna": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "Psicosis": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
   "fridge": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
@@ -108,6 +96,10 @@
     "nsfw_deletion_count": 0
   },
   "j_0": {
+    "deletion_count": 3,
+    "nsfw_deletion_count": 0
+  },
+  "flower_power": {
     "deletion_count": 3,
     "nsfw_deletion_count": 0
   },
@@ -201,6 +193,10 @@
   },
   "VidiM": {
     "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Psicosis": {
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   }
 }
