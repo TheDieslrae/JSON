@@ -55,10 +55,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "fridge": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
   "gasper1319": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -197,6 +193,10 @@
   },
   "Psicosis": {
     "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "fridge": {
+    "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
 }
