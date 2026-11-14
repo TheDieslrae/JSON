@@ -1,12 +1,4 @@
 {
-  "zeez": {
-    "deletion_count": 5,
-    "nsfw_deletion_count": 0
-  },
-  "Aspirants_dream": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
   "ldsssqs": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -53,6 +45,10 @@
   },
   "NaCl": {
     "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "zeez": {
+    "deletion_count": 4,
     "nsfw_deletion_count": 0
   },
   "TabStability": {
