@@ -47,10 +47,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "flower_power": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
   "gesake13": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -97,6 +93,10 @@
   },
   "azstrait": {
     "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "flower_power": {
+    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "beastrouen": {
