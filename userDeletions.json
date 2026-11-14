@@ -1,6 +1,6 @@
 {
   "zeez": {
-    "deletion_count": 6,
+    "deletion_count": 5,
     "nsfw_deletion_count": 0
   },
   "Aspirants_dream": {
@@ -53,14 +53,6 @@
   },
   "NaCl": {
     "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "bbllyy": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "swamp": {
-    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "TabStability": {
@@ -193,6 +185,10 @@
   },
   "fridge": {
     "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "swamp": {
+    "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "yangfafaf": {
