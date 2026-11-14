@@ -47,14 +47,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "DynamiteDuxer": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "j_0": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
   "flower_power": {
     "deletion_count": 3,
     "nsfw_deletion_count": 0
@@ -96,6 +88,10 @@
     "nsfw_deletion_count": 0
   },
   "zeez": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "j_0": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
