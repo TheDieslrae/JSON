@@ -31,28 +31,12 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "GPerson": {
+  "bk1": {
     "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "zeez": {
-    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "j_0": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "azstrait": {
     "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "flower_power": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
-  "bk1": {
-    "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
   "beastrouen": {
@@ -71,7 +55,15 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
+  "flower_power": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
   "aleph": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "zeez": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
