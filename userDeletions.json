@@ -27,10 +27,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "beastrouen": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
   "irc678": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -85,6 +81,10 @@
   },
   "TabStability": {
     "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "beastrouen": {
+    "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
   "FugitiveFish": {
