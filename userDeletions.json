@@ -1,8 +1,4 @@
 {
-  "oOo": {
-    "deletion_count": 6,
-    "nsfw_deletion_count": 0
-  },
   "hellstorm": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
@@ -35,38 +31,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "gesake13": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "bk1": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
-  "thegame": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "cicero": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "Sorayuki": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "maken": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "CrkMStanz": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "horsecode": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
   "GPerson": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -84,6 +48,10 @@
     "nsfw_deletion_count": 0
   },
   "flower_power": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "bk1": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
@@ -168,6 +136,10 @@
     "nsfw_deletion_count": 0
   },
   "KrakenSix": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "oOo": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
