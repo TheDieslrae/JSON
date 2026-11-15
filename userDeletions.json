@@ -1,6 +1,6 @@
 {
   "oOo": {
-    "deletion_count": 5,
+    "deletion_count": 6,
     "nsfw_deletion_count": 0
   },
   "hellstorm": {
@@ -168,6 +168,14 @@
     "nsfw_deletion_count": 0
   },
   "KrakenSix": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "uncover4197": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "Gr8fuldead": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   }
