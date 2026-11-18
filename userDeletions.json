@@ -15,18 +15,6 @@
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
-  "juicyroot": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "Sif": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "TabStability": {
-    "deletion_count": 2,
-    "nsfw_deletion_count": 0
-  },
   "beastrouen": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -48,6 +36,10 @@
     "nsfw_deletion_count": 0
   },
   "swamp": {
+    "deletion_count": 1,
+    "nsfw_deletion_count": 0
+  },
+  "TabStability": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
   },
