@@ -1,12 +1,4 @@
 {
-  "r0ver": {
-    "deletion_count": 1,
-    "nsfw_deletion_count": 0
-  },
-  "Urizen": {
-    "deletion_count": 3,
-    "nsfw_deletion_count": 0
-  },
   "RitsukoP": {
     "deletion_count": 1,
     "nsfw_deletion_count": 0
@@ -16,6 +8,10 @@
     "nsfw_deletion_count": 0
   },
   "ICA": {
+    "deletion_count": 2,
+    "nsfw_deletion_count": 0
+  },
+  "Urizen": {
     "deletion_count": 2,
     "nsfw_deletion_count": 0
   },
